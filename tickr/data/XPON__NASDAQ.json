@@ -1,0 +1,469 @@
+{
+  "name": "Expion360 Inc",
+  "ly_ticker": "XPON",
+  "ft_symbol": "XPON:NAQ",
+  "exchange": "NASDAQ",
+  "country": "United States",
+  "sector": "Industrials",
+  "bucket": "under_10M",
+  "ly_market_cap_usd": 5700000.0,
+  "price": 0.5311,
+  "currency": "USD",
+  "balance_sheet_summary": {
+    "total_current_assets": 7.04,
+    "total_assets": 8.07,
+    "total_current_liabilities": 1.0,
+    "total_liabilities": 1.54,
+    "shares_outstanding": 9.78
+  },
+  "metrics": {
+    "net_assets": 6.53,
+    "book_value_per_share": 0.6676891615541923,
+    "price_to_book": 0.7954300153139355,
+    "current_ratio": 7.04,
+    "debt_to_equity": 0.2358346094946401,
+    "ncav_per_share": 0.5623721881390593
+  },
+  "statements": {
+    "income": null,
+    "balance": null,
+    "cashflow": {
+      "periods": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "rows": [
+        {
+          "label": "OPERATIONS",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Net income",
+          "section": false,
+          "values": [
+            -6.24,
+            -13.0,
+            -7.46,
+            -7.54,
+            -4.72
+          ],
+          "raw": [
+            "(6.24)",
+            "(13)",
+            "(7.46)",
+            "(7.54)",
+            "(4.72)"
+          ]
+        },
+        {
+          "label": "Depreciation/depletion",
+          "section": false,
+          "values": [
+            0.12,
+            0.17,
+            0.21,
+            0.16,
+            0.06
+          ],
+          "raw": [
+            "0.12",
+            "0.17",
+            "0.21",
+            "0.16",
+            "0.06"
+          ]
+        },
+        {
+          "label": "Non-Cash items",
+          "section": false,
+          "values": [
+            -1.89,
+            6.56,
+            0.8,
+            3.32,
+            3.3
+          ],
+          "raw": [
+            "(1.89)",
+            "6.56",
+            "0.80",
+            "3.32",
+            "3.30"
+          ]
+        },
+        {
+          "label": "Cash taxes paid, supplemental",
+          "section": false,
+          "values": [
+            0.0,
+            0.0,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "0.00",
+            "0.00",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Cash interest paid, supplemental",
+          "section": false,
+          "values": [
+            0.02,
+            0.22,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "0.02",
+            "0.22",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Changes in working capital",
+          "section": false,
+          "values": [
+            1.86,
+            -2.81,
+            0.92,
+            -1.41,
+            -2.53
+          ],
+          "raw": [
+            "1.86",
+            "(2.81)",
+            "0.92",
+            "(1.41)",
+            "(2.53)"
+          ]
+        },
+        {
+          "label": "Total cash from operations",
+          "section": false,
+          "values": [
+            -6.15,
+            -9.56,
+            -5.53,
+            -5.47,
+            -3.9
+          ],
+          "raw": [
+            "(6.15)",
+            "(9.56)",
+            "(5.53)",
+            "(5.47)",
+            "(3.9)"
+          ]
+        },
+        {
+          "label": "INVESTING",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Capital expenditures",
+          "section": false,
+          "values": [
+            0.0,
+            -0.02,
+            -0.02,
+            -0.57,
+            -0.11
+          ],
+          "raw": [
+            "0",
+            "(0.02)",
+            "(0.02)",
+            "(0.57)",
+            "(0.11)"
+          ]
+        },
+        {
+          "label": "Other investing and cash flow items, total",
+          "section": false,
+          "values": [
+            0.0,
+            0.13,
+            0.04,
+            0.05,
+            0.0
+          ],
+          "raw": [
+            "0.00",
+            "0.13",
+            "0.04",
+            "0.05",
+            "0"
+          ]
+        },
+        {
+          "label": "Total cash from investing",
+          "section": false,
+          "values": [
+            0.0,
+            0.11,
+            0.02,
+            -0.52,
+            -0.11
+          ],
+          "raw": [
+            "0.00",
+            "0.11",
+            "0.02",
+            "(0.52)",
+            "(0.11)"
+          ]
+        },
+        {
+          "label": "FINANCING",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Financing cash flow items",
+          "section": false,
+          "values": [
+            null,
+            null,
+            0.0,
+            -0.01,
+            -0.2
+          ],
+          "raw": [
+            "--",
+            "--",
+            "0",
+            "(0.01)",
+            "(0.2)"
+          ]
+        },
+        {
+          "label": "Total cash dividends paid",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Issuance (retirement) of stock, net",
+          "section": false,
+          "values": [
+            8.6,
+            9.7,
+            0.05,
+            15.0,
+            0.84
+          ],
+          "raw": [
+            "8.60",
+            "9.70",
+            "0.05",
+            "15",
+            "0.84"
+          ]
+        },
+        {
+          "label": "Issuance (retirement) of debt, net",
+          "section": false,
+          "values": [
+            -0.03,
+            -3.63,
+            2.2,
+            -2.35,
+            3.86
+          ],
+          "raw": [
+            "(0.03)",
+            "(3.63)",
+            "2.20",
+            "(2.35)",
+            "3.86"
+          ]
+        },
+        {
+          "label": "Total cash from financing",
+          "section": false,
+          "values": [
+            8.57,
+            6.06,
+            2.25,
+            12.0,
+            4.49
+          ],
+          "raw": [
+            "8.57",
+            "6.06",
+            "2.25",
+            "12",
+            "4.49"
+          ]
+        },
+        {
+          "label": "NET CHANGE IN CASH",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Foreign exchange effects",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Net change in cash",
+          "section": false,
+          "values": [
+            2.42,
+            -3.39,
+            -3.27,
+            6.43,
+            0.48
+          ],
+          "raw": [
+            "2.42",
+            "(3.39)",
+            "(3.27)",
+            "6.43",
+            "0.48"
+          ]
+        },
+        {
+          "label": "Net cash-begin balance/reserved for future use",
+          "section": false,
+          "values": [
+            0.55,
+            3.93,
+            7.2,
+            0.77,
+            0.29
+          ],
+          "raw": [
+            "0.55",
+            "3.93",
+            "7.20",
+            "0.77",
+            "0.29"
+          ]
+        },
+        {
+          "label": "Net cash-end balance/reserved for future use",
+          "section": false,
+          "values": [
+            2.97,
+            0.55,
+            3.93,
+            7.2,
+            0.77
+          ],
+          "raw": [
+            "2.97",
+            "0.55",
+            "3.93",
+            "7.20",
+            "0.77"
+          ]
+        },
+        {
+          "label": "SUPPLEMENTAL INCOME",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Depreciation, supplemental",
+          "section": false,
+          "values": [
+            0.12,
+            0.17,
+            0.21,
+            0.16,
+            0.06
+          ],
+          "raw": [
+            "0.12",
+            "0.17",
+            "0.21",
+            "0.16",
+            "0.06"
+          ]
+        },
+        {
+          "label": "Cash interest paid, supplemental",
+          "section": false,
+          "values": [
+            0.02,
+            0.22,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "0.02",
+            "0.22",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Cash taxes paid, supplemental",
+          "section": false,
+          "values": [
+            0.0,
+            0.0,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "0.00",
+            "0.00",
+            "--",
+            "--",
+            "--"
+          ]
+        }
+      ]
+    }
+  },
+  "ft_url": "https://markets.ft.com/data/equities/tearsheet/financials?s=XPON:NAQ"
+}

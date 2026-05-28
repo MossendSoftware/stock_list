@@ -1,0 +1,88 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Country macro — market cap vs money vs rates</title><style>
+ :root{--bg:#0d1117;--panel:#161b22;--line:#262d36;--txt:#e6edf3;--muted:#8b949e;--accent:#f0883e;}
+ *{box-sizing:border-box;}
+ body{margin:0;background:var(--bg);color:var(--txt);
+   font:15px/1.6 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;}
+ .wrap{max-width:1180px;margin:0 auto;padding:40px 28px 60px;}
+ a{color:var(--accent);text-decoration:none;}
+ h1{font-size:25px;margin:0 0 6px;}
+ .sub{color:var(--muted);font-size:14px;margin-bottom:26px;max-width:840px;}
+ .back{color:var(--muted);font-size:13px;}
+
+ .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:18px;}
+ .card{display:block;background:var(--panel);border:1px solid var(--line);
+   border-radius:12px;padding:10px;color:var(--txt);}
+ .card:hover{border-color:var(--accent);}
+ .card img{width:100%;display:block;border-radius:6px;}
+ .cap{color:var(--muted);font-size:12px;padding:8px 4px 2px;}
+ .note{color:var(--muted);font-size:12px;margin-top:26px;max-width:900px;line-height:1.7;}
+ .explain{margin-top:34px;background:var(--panel);border:1px solid var(--line);
+   border-radius:12px;padding:20px 24px;max-width:900px;}
+ .explain h2{color:var(--accent);font-size:17px;margin:0 0 10px;}
+ .explain p{font-size:14px;line-height:1.7;margin:0 0 12px;}
+ .explain ul{font-size:14px;line-height:1.7;margin:0 0 12px;padding-left:20px;}
+ .explain .warn{color:var(--accent);}
+ .explain table{border-collapse:collapse;font-size:13px;margin:6px 0 14px;}
+ .explain td,.explain th{border:1px solid var(--line);padding:5px 12px;text-align:left;}
+ .explain th{color:var(--muted);font-weight:400;}
+ .explain td.m{text-align:right;font-variant-numeric:tabular-nums;}
+</style></head><body><div class="wrap">
+ <h1>Market cap vs. money supply vs. rates</h1>
+ <p style="margin:0 0 14px"><a href="/countries/compare">Compare all countries &rarr;</a>
+   &nbsp;&middot;&nbsp; <a href="/countries/debt">Money supply vs. government debt &rarr;</a></p>
+ <div class="sub">Total stock-market capitalisation, broad money and GDP, indexed to
+   100 (left axis), vs the risk-free rate (10-year govt bond yield, right axis). Click
+   a country for detail. Is the market growing in real terms, or tracking the money
+   supply &mdash; and how does it compare to the real economy (GDP)?</div>
+ <div class="grid"><a class="card" href="/countries/united-states"><img src="/country/img/US.png" alt="United States"><div class="cap">Since 2004: market cap 4.2x, money 3.5x &middot; RFR 4.2%</div></a>
+<a class="card" href="/countries/united-kingdom"><img src="/country/img/GB.png" alt="United Kingdom"><div class="cap">Since 2004: market cap 1.5x, money 3.0x &middot; RFR 4.6%</div></a>
+<a class="card" href="/countries/euro-area"><img src="/country/img/XC.png" alt="Euro area"><div class="cap">Since 2004: market cap 0.8x, money 2.6x &middot; RFR 3.2%</div></a>
+<a class="card" href="/countries/japan"><img src="/country/img/JP.png" alt="Japan"><div class="cap">Since 2004: market cap 2.1x, money 1.6x &middot; RFR 2.3%</div></a>
+<a class="card" href="/countries/south-korea"><img src="/country/img/KR.png" alt="South Korea"><div class="cap">Since 2004: market cap 6.4x, money 4.8x &middot; RFR 3.6%</div></a>
+<a class="card" href="/countries/china"><img src="/country/img/CN.png" alt="China"><div class="cap">Since 2004: market cap 34.6x, money 13.1x &middot; RFR n/a</div></a>
+<a class="card" href="/countries/india"><img src="/country/img/IN.png" alt="India"><div class="cap">Since 2004: market cap 25.4x, money 14.0x &middot; RFR n/a</div></a>
+<a class="card" href="/countries/hong-kong"><img src="/country/img/HK.png" alt="Hong Kong"><div class="cap">Since 2004: market cap 7.1x, money 4.2x &middot; RFR n/a</div></a></div>
+
+ <section class="explain">
+  <h2>What is Cap/GDP? (the Buffett indicator)</h2>
+  <p>A country's <b>total stock-market capitalisation &divide; that same country's
+   GDP</b> &mdash; not global GDP. GDP is roughly one year of the economy's output;
+   market cap is what investors collectively pay for its listed slice. So Cap/GDP is
+   essentially a <b>price-to-sales ratio for the whole country</b>: how big the
+   market is relative to the real economy underneath it.</p>
+  <p>Rough reading:</p>
+  <ul>
+   <li><b>~50&ndash;75%</b> &mdash; market modest/cheap vs. the economy</li>
+   <li><b>~100%</b> &mdash; market cap equals one year of GDP; historically "fair"</li>
+   <li><b>150%+</b> &mdash; market large/expensive vs. the economy</li>
+  </ul>
+  <p>Rising over time means the market is inflating faster than the economy beneath
+   it &mdash; genuine growth in the listed share of GDP, or just liquidity and
+   exuberance. Where it sits now (latest, vs. 2004):</p>
+  <table><thead><tr><th>Country</th><th>Latest</th><th>2004</th><th>Read</th></tr></thead>
+   <tbody>
+    <tr><td>United States</td><td class="m">216%</td><td class="m">134%</td><td>extreme &mdash; above the dot-com peak</td></tr>
+    <tr><td>Japan</td><td class="m">157%</td><td class="m">73%</td><td>big re-rating, cheap &rarr; rich</td></tr>
+    <tr><td>India</td><td class="m">131%</td><td class="m">59%</td><td>listed market more than doubled vs. economy</td></tr>
+    <tr><td>United Kingdom</td><td class="m">91%</td><td class="m">116%</td><td>de-rated &mdash; market shrank vs. economy</td></tr>
+    <tr><td>South Korea</td><td class="m">83%</td><td class="m">52%</td><td>still moderate</td></tr>
+    <tr><td>China</td><td class="m">63%</td><td class="m">23%</td><td>moderate despite huge nominal growth</td></tr>
+    <tr><td>Hong Kong</td><td class="m">1,118%</td><td class="m">509%</td><td>distortion &mdash; see below</td></tr>
+   </tbody></table>
+  <p class="warn">Caveat: Cap/GDP only works when the listed companies belong to the
+   local economy. Hong Kong's 1,118% is meaningless &mdash; its exchange lists giant
+   <i>mainland Chinese</i> firms against tiny HK GDP. The same distortion hits
+   financial hubs (Switzerland, Netherlands, Luxembourg). Use it for large,
+   self-contained domestic markets; ignore it for hubs. Euro-area data is also stale
+   (ends 2018).</p>
+ </section>
+
+ <p class="note">Market cap &amp; GDP: World Bank (US$); Cap/GDP is the "Buffett
+   indicator". Money:
+   US M2 + FRED OECD broad money (UK/EZ/JP/KR); China/India/Hong Kong curated.
+   Risk-free rate: FRED 10-year government bond yield (US/UK/EZ/JP/KR; no clean
+   sovereign yield for China/India/HK). World Bank UK market cap ends 2022; 2023+
+   estimated from the FTSE All-Share index (marked &ldquo;est&rdquo;).</p>
+</div></body></html>

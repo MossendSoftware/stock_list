@@ -1,0 +1,36 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Country comparison — money, market cap, Cap/GDP</title><style>
+ :root{--bg:#0d1117;--panel:#161b22;--line:#262d36;--txt:#e6edf3;--muted:#8b949e;--accent:#f0883e;}
+ *{box-sizing:border-box;}
+ body{margin:0;background:var(--bg);color:var(--txt);
+   font:15px/1.6 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;}
+ .wrap{max-width:1180px;margin:0 auto;padding:40px 28px 60px;}
+ a{color:var(--accent);text-decoration:none;}
+ h1{font-size:25px;margin:0 0 6px;}
+ .sub{color:var(--muted);font-size:14px;margin-bottom:26px;max-width:840px;}
+ .back{color:var(--muted);font-size:13px;}
+
+ figure{margin:0 0 24px;background:var(--panel);border:1px solid var(--line);
+   border-radius:12px;padding:12px;}
+ figure img{width:100%;display:block;border-radius:6px;}
+ figcaption{color:var(--muted);font-size:13px;padding:10px 4px 2px;line-height:1.6;}
+</style></head><body><div class="wrap">
+ <a class="back" href="/countries">&larr; Per-country view</a>
+ <h1>Comparing countries</h1>
+ <div class="sub">The same three measures, each with every country on one chart.
+   Money and market cap are indexed to 100 at each country's start year and drawn on
+   a <b>log scale</b> &mdash; so equal slopes mean equal growth rates, and the huge
+   emerging-market numbers don't crush the rest.</div>
+ <figure><img src="/country/img/compare_money.png" alt="Money supply by country">
+   <figcaption>Broad money, indexed (log). China and India tower over the developed
+   world; Japan barely grew its money supply.</figcaption></figure>
+ <figure><img src="/country/img/compare_marketcap.png" alt="Market cap by country">
+   <figcaption>Total market cap, indexed (log). Steeper than money almost everywhere
+   &mdash; markets outgrew the money that chased them, China/India most of all.</figcaption></figure>
+ <figure><img src="/country/img/compare_capgdp.png" alt="Cap/GDP by country">
+   <figcaption>Market cap as a % of GDP (the Buffett indicator). Hong Kong excluded
+   (hub distortion). The US sits well above everyone; the UK has drifted down.</figcaption></figure>
+ <p class="note">Sources as on the per-country pages. Cap/GDP excludes Hong Kong;
+   Euro-area data ends 2018.</p>
+</div></body></html>

@@ -1,0 +1,354 @@
+{
+  "generated": "2026-05-28",
+  "start_year": 2004,
+  "rows": [
+    {
+      "name": "S&P 500",
+      "ticker": "^SP500TR",
+      "region": "US",
+      "currency": "USD",
+      "basis": "TR",
+      "start": "2004-01-02",
+      "end": "2026-05-28",
+      "years": 22.40000000000009,
+      "money_growth_pct": 254.88178036538739,
+      "nominal": {
+        "multiple": 10.438230937514758,
+        "total_pct": 943.8230937514758,
+        "cagr_pct": 11.038711925672274
+      },
+      "m2": {
+        "multiple": 2.941326243000563,
+        "total_pct": 194.13262430005628,
+        "cagr_pct": 4.934212361795276
+      },
+      "cpi": {
+        "multiple": 6.012680842328847,
+        "total_pct": 501.2680842328847,
+        "cagr_pct": 8.337754104572404
+      }
+    },
+    {
+      "name": "NASDAQ Composite",
+      "ticker": "^IXIC",
+      "region": "US",
+      "currency": "USD",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-28",
+      "years": 22.40000000000009,
+      "money_growth_pct": 254.88178036538739,
+      "nominal": {
+        "multiple": 13.403240628849334,
+        "total_pct": 1240.3240628849335,
+        "cagr_pct": 12.285031902692122
+      },
+      "m2": {
+        "multiple": 3.7768184703788727,
+        "total_pct": 277.6818470378873,
+        "cagr_pct": 6.112014255128573
+      },
+      "cpi": {
+        "multiple": 7.720600227819216,
+        "total_pct": 672.0600227819216,
+        "cagr_pct": 9.553758008655656
+      }
+    },
+    {
+      "name": "Russell 2000",
+      "ticker": "^RUT",
+      "region": "US",
+      "currency": "USD",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-28",
+      "years": 22.40000000000009,
+      "money_growth_pct": 254.88178036538739,
+      "nominal": {
+        "multiple": 5.241803702396983,
+        "total_pct": 424.18037023969833,
+        "cagr_pct": 7.676189095198582
+      },
+      "m2": {
+        "multiple": 1.477056302242399,
+        "total_pct": 47.705630224239904,
+        "cagr_pct": 1.7565486565417343
+      },
+      "cpi": {
+        "multiple": 3.019409408483036,
+        "total_pct": 201.9409408483036,
+        "cagr_pct": 5.057022859934768
+      }
+    },
+    {
+      "name": "FTSE 100",
+      "ticker": "^FTSE",
+      "region": "UK",
+      "currency": "GBP",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-28",
+      "years": 22.40000000000009,
+      "money_growth_pct": 196.7330050985237,
+      "nominal": {
+        "multiple": 2.3116401732617797,
+        "total_pct": 131.16401732617797,
+        "cagr_pct": 3.8117325006279623
+      },
+      "m2": {
+        "multiple": 0.7790303517110442,
+        "total_pct": -22.096964828895583,
+        "cagr_pct": -1.1085652989904937
+      },
+      "cpi": {
+        "multiple": 1.3305998580831824,
+        "total_pct": 33.05998580831824,
+        "cagr_pct": 1.2832978016348084
+      }
+    },
+    {
+      "name": "FTSE 250",
+      "ticker": "^FTMC",
+      "region": "UK",
+      "currency": "GBP",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-28",
+      "years": 22.40000000000009,
+      "money_growth_pct": 196.7330050985237,
+      "nominal": {
+        "multiple": 3.998032178303795,
+        "total_pct": 299.8032178303795,
+        "cagr_pct": 6.3819967815117895
+      },
+      "m2": {
+        "multiple": 1.34735001149479,
+        "total_pct": 34.735001149479004,
+        "cagr_pct": 1.3398778217889484
+      },
+      "cpi": {
+        "multiple": 2.3013015220083703,
+        "total_pct": 130.13015220083705,
+        "cagr_pct": 3.7909608212081114
+      }
+    },
+    {
+      "name": "DAX",
+      "ticker": "^GDAXI",
+      "region": "EZ",
+      "currency": "EUR",
+      "basis": "TR",
+      "start": "2004-01-02",
+      "end": "2026-05-28",
+      "years": 22.40000000000009,
+      "money_growth_pct": 164.74745942047778,
+      "nominal": {
+        "multiple": 6.244183152917755,
+        "total_pct": 524.4183152917756,
+        "cagr_pct": 8.520629681714631
+      },
+      "m2": {
+        "multiple": 2.358543181712126,
+        "total_pct": 135.85431817121258,
+        "cagr_pct": 3.904865700483229
+      },
+      "cpi": {
+        "multiple": 4.03529513788506,
+        "total_pct": 303.52951378850605,
+        "cagr_pct": 6.426064954878097
+      }
+    },
+    {
+      "name": "Euro Stoxx 50",
+      "ticker": "SX5T.Z",
+      "region": "EZ",
+      "currency": "EUR",
+      "basis": "TR",
+      "start": "2004-01-02",
+      "end": "2026-05-28",
+      "years": 22.40000000000009,
+      "money_growth_pct": 164.74745942047778,
+      "nominal": {
+        "multiple": 4.011287720896128,
+        "total_pct": 301.12877208961277,
+        "cagr_pct": 6.397717937218084
+      },
+      "m2": {
+        "multiple": 1.5151373802327266,
+        "total_pct": 51.51373802327266,
+        "cagr_pct": 1.8722488574659746
+      },
+      "cpi": {
+        "multiple": 2.592289406057304,
+        "total_pct": 159.22894060573037,
+        "cagr_pct": 4.344127687504007
+      }
+    },
+    {
+      "name": "CAC 40",
+      "ticker": "^FCHI",
+      "region": "EZ",
+      "currency": "EUR",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-28",
+      "years": 22.40000000000009,
+      "money_growth_pct": 164.74745942047778,
+      "nominal": {
+        "multiple": 2.2767098548765645,
+        "total_pct": 127.67098548765645,
+        "cagr_pct": 3.7411925394565504
+      },
+      "m2": {
+        "multiple": 0.8599553173655364,
+        "total_pct": -14.004468263446357,
+        "cagr_pct": -0.6712851737491587
+      },
+      "cpi": {
+        "multiple": 1.4713207448864545,
+        "total_pct": 47.13207448864545,
+        "cagr_pct": 1.7388760835862493
+      }
+    },
+    {
+      "name": "Nikkei 225",
+      "ticker": "^N225",
+      "region": "JP",
+      "currency": "JPY",
+      "basis": "price",
+      "start": "2004-01-05",
+      "end": "2026-05-27",
+      "years": 22.389041095890434,
+      "money_growth_pct": 59.07934523058136,
+      "nominal": {
+        "multiple": 6.0044701954194935,
+        "total_pct": 500.4470195419493,
+        "cagr_pct": 8.335388594678461
+      },
+      "m2": {
+        "multiple": 3.7745127670196092,
+        "total_pct": 277.4512767019609,
+        "cagr_pct": 6.112201289948738
+      },
+      "cpi": {
+        "multiple": 5.064997699685903,
+        "total_pct": 406.4997699685903,
+        "cagr_pct": 7.515190092545776
+      }
+    },
+    {
+      "name": "Taiwan",
+      "ticker": "^TWII",
+      "region": "TW",
+      "currency": "TWD",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-27",
+      "years": 22.397260273972734,
+      "money_growth_pct": 154.09415121255455,
+      "nominal": {
+        "multiple": 7.32542658411526,
+        "total_pct": 632.5426584115261,
+        "cagr_pct": 9.298281926687135
+      },
+      "m2": {
+        "multiple": 2.8829575766139546,
+        "total_pct": 188.29575766139547,
+        "cagr_pct": 4.840963742072701
+      },
+      "cpi": null
+    },
+    {
+      "name": "KOSPI",
+      "ticker": "^KS11",
+      "region": "KR",
+      "currency": "KRW",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-27",
+      "years": 22.397260273972734,
+      "money_growth_pct": 377.4825178584033,
+      "nominal": {
+        "multiple": 10.019604141763635,
+        "total_pct": 901.9604141763634,
+        "cagr_pct": 10.837390974245253
+      },
+      "m2": {
+        "multiple": 2.098423244206594,
+        "total_pct": 109.8423244206594,
+        "cagr_pct": 3.364637281050653
+      },
+      "cpi": null
+    },
+    {
+      "name": "Hang Seng",
+      "ticker": "^HSI",
+      "region": "HK",
+      "currency": "HKD",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-27",
+      "years": 22.397260273972734,
+      "money_growth_pct": 323.49183587003034,
+      "nominal": {
+        "multiple": 1.9785391643239505,
+        "total_pct": 97.85391643239505,
+        "cagr_pct": 3.0935014656407356
+      },
+      "m2": {
+        "multiple": 0.4671965305444906,
+        "total_pct": -53.28034694555094,
+        "cagr_pct": -3.340684922102344
+      },
+      "cpi": null
+    },
+    {
+      "name": "Sensex",
+      "ticker": "^BSESN",
+      "region": "IN",
+      "currency": "INR",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-27",
+      "years": 22.397260273972734,
+      "money_growth_pct": 1298.0848153215054,
+      "nominal": {
+        "multiple": 12.588843581860855,
+        "total_pct": 1158.8843581860856,
+        "cagr_pct": 11.972794628793526
+      },
+      "m2": {
+        "multiple": 0.9004348980763309,
+        "total_pct": -9.956510192366908,
+        "cagr_pct": -0.46716537799535995
+      },
+      "cpi": null
+    },
+    {
+      "name": "Shanghai",
+      "ticker": "000001.SS",
+      "region": "CN",
+      "currency": "CNY",
+      "basis": "price",
+      "start": "2004-01-02",
+      "end": "2026-05-27",
+      "years": 22.397260273972734,
+      "money_growth_pct": 1210.6775114649358,
+      "nominal": {
+        "multiple": 2.69822433218855,
+        "total_pct": 169.82243321885502,
+        "cagr_pct": 4.531434439863902
+      },
+      "m2": {
+        "multiple": 0.20586485299291982,
+        "total_pct": -79.41351470070802,
+        "cagr_pct": -6.813585890175522
+      },
+      "cpi": {
+        "multiple": 1.5691075618948822,
+        "total_pct": 56.91075618948822,
+        "cagr_pct": 2.031803831918766
+      }
+    }
+  ]
+}

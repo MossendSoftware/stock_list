@@ -1,0 +1,20 @@
+{
+  "name": "Rockbridge Bezpieczna Inwestycja 2 FIZ",
+  "ly_ticker": "RKB1R",
+  "ft_symbol": "BPHFIZBI2:WSE",
+  "exchange": "XRIS",
+  "country": "Latvia",
+  "sector": "Industrials",
+  "bucket": "under_10M",
+  "ly_market_cap_usd": 4428000.0,
+  "price": 172.5,
+  "currency": "PLN",
+  "balance_sheet_summary": {},
+  "metrics": {},
+  "statements": {
+    "income": null,
+    "balance": null,
+    "cashflow": null
+  },
+  "ft_url": "https://markets.ft.com/data/equities/tearsheet/financials?s=BPHFIZBI2:WSE"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Foresight Autonomous Holdings Ltd",
+  "ly_ticker": "FRSX",
+  "ft_symbol": "FRSX:NAQ",
+  "exchange": "NASDAQ",
+  "country": "United States",
+  "sector": "Mobility",
+  "bucket": "under_10M",
+  "ly_market_cap_usd": 4800000.0,
+  "price": 2.04,
+  "currency": "USD",
+  "balance_sheet_summary": {},
+  "metrics": {},
+  "statements": {
+    "income": null,
+    "balance": null,
+    "cashflow": null
+  },
+  "ft_url": "https://markets.ft.com/data/equities/tearsheet/financials?s=FRSX:NAQ"
+}

@@ -1,0 +1,1869 @@
+{
+  "name": "Intrusion Inc",
+  "ly_ticker": "INTZ",
+  "ft_symbol": "INTZ:NAQ",
+  "exchange": "NASDAQ",
+  "country": "United States",
+  "sector": "Software & Cloud Services",
+  "bucket": "10M_to_25M",
+  "ly_market_cap_usd": 16000000.0,
+  "price": 0.82,
+  "currency": "USD",
+  "balance_sheet_summary": {
+    "total_current_assets": 4.23,
+    "total_assets": 10.0,
+    "total_current_liabilities": 1.79,
+    "total_liabilities": 3.11,
+    "shares_outstanding": 20.0
+  },
+  "metrics": {
+    "net_assets": 6.890000000000001,
+    "book_value_per_share": 0.34450000000000003,
+    "price_to_book": 2.3802612481857763,
+    "current_ratio": 2.363128491620112,
+    "debt_to_equity": 0.45137880986937584,
+    "ncav_per_share": 0.05600000000000003
+  },
+  "statements": {
+    "income": {
+      "periods": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "rows": [
+        {
+          "label": "REVENUE AND GROSS PROFIT",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Total revenue",
+          "section": false,
+          "values": [
+            7.1,
+            5.77,
+            5.61,
+            7.53,
+            7.28
+          ],
+          "raw": [
+            "7.10",
+            "5.77",
+            "5.61",
+            "7.53",
+            "7.28"
+          ]
+        },
+        {
+          "label": "OPERATING EXPENSES",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Cost of revenue total",
+          "section": false,
+          "values": [
+            1.72,
+            1.34,
+            1.26,
+            3.35,
+            3.62
+          ],
+          "raw": [
+            "1.72",
+            "1.34",
+            "1.26",
+            "3.35",
+            "3.62"
+          ]
+        },
+        {
+          "label": "Selling, general and admin. expenses, total",
+          "section": false,
+          "values": [
+            9.37,
+            8.44,
+            11.0,
+            14.0,
+            17.0
+          ],
+          "raw": [
+            "9.37",
+            "8.44",
+            "11",
+            "14",
+            "17"
+          ]
+        },
+        {
+          "label": "Depreciation/amortization",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Unusual expense(income)",
+          "section": false,
+          "values": [
+            null,
+            null,
+            0.0,
+            -0.39,
+            0.0
+          ],
+          "raw": [
+            "--",
+            "--",
+            "0",
+            "(0.39)",
+            "0"
+          ]
+        },
+        {
+          "label": "Other operating expenses, total",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Total operating expense",
+          "section": false,
+          "values": [
+            16.0,
+            14.0,
+            18.0,
+            23.0,
+            27.0
+          ],
+          "raw": [
+            "16",
+            "14",
+            "18",
+            "23",
+            "27"
+          ]
+        },
+        {
+          "label": "Operating income",
+          "section": false,
+          "values": [
+            -9.16,
+            -8.45,
+            -12.0,
+            -16.0,
+            -20.0
+          ],
+          "raw": [
+            "(9.16)",
+            "(8.45)",
+            "(12)",
+            "(16)",
+            "(20)"
+          ]
+        },
+        {
+          "label": "Other, net",
+          "section": false,
+          "values": [
+            0.19,
+            0.98,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "0.19",
+            "0.98",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "INCOME TAXES, MINORITY INTEREST AND EXTRA ITEMS",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Net income before taxes",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -16.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(16)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Provision for income taxes",
+          "section": false,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "raw": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "label": "Net income after taxes",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -16.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(16)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Minority interest",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Net income before extra. Items",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -16.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(16)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Total extraordinary items",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Net income",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -16.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(16)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Inc.avail. to common excl. extra. Items",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -16.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(16)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Inc.avail. to common incl. extra. Items",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -16.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(16)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "EPS RECONCILIATION",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Basic/primary weighted average shares",
+          "section": false,
+          "values": [
+            20.0,
+            5.28,
+            1.21,
+            0.99,
+            0.9
+          ],
+          "raw": [
+            "20",
+            "5.28",
+            "1.21",
+            "0.99",
+            "0.90"
+          ]
+        },
+        {
+          "label": "Basic/primary eps excl. extra items",
+          "section": false,
+          "values": [
+            -0.46,
+            -1.48,
+            -11.0,
+            -16.0,
+            -21.0
+          ],
+          "raw": [
+            "(0.46)",
+            "(1.48)",
+            "(11)",
+            "(16)",
+            "(21)"
+          ]
+        },
+        {
+          "label": "Basic/primary eps incl. extra items",
+          "section": false,
+          "values": [
+            -0.46,
+            -1.48,
+            -11.0,
+            -16.0,
+            -21.0
+          ],
+          "raw": [
+            "(0.46)",
+            "(1.48)",
+            "(11)",
+            "(16)",
+            "(21)"
+          ]
+        },
+        {
+          "label": "Dilution adjustment",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Diluted weighted average shares",
+          "section": false,
+          "values": [
+            20.0,
+            5.28,
+            1.21,
+            0.99,
+            0.9
+          ],
+          "raw": [
+            "20",
+            "5.28",
+            "1.21",
+            "0.99",
+            "0.90"
+          ]
+        },
+        {
+          "label": "Diluted eps excl. extra items",
+          "section": false,
+          "values": [
+            -0.46,
+            -1.48,
+            -11.0,
+            -16.0,
+            -21.0
+          ],
+          "raw": [
+            "(0.46)",
+            "(1.48)",
+            "(11)",
+            "(16)",
+            "(21)"
+          ]
+        },
+        {
+          "label": "Diluted eps incl. extra items",
+          "section": false,
+          "values": [
+            -0.46,
+            -1.48,
+            -11.0,
+            -16.0,
+            -21.0
+          ],
+          "raw": [
+            "(0.46)",
+            "(1.48)",
+            "(11)",
+            "(16)",
+            "(21)"
+          ]
+        },
+        {
+          "label": "COMMON STOCK DIVIDENDS",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "DPS - common stock primary issue",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Gross dividend - common stock",
+          "section": false,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "raw": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "label": "PRO FORMA INCOME",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Pro forma net income",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Interest expense, supplemental",
+          "section": false,
+          "values": [
+            0.08,
+            0.33,
+            1.89,
+            2.36,
+            0.02
+          ],
+          "raw": [
+            "0.08",
+            "0.33",
+            "1.89",
+            "2.36",
+            "0.02"
+          ]
+        },
+        {
+          "label": "SUPPLEMENTAL INCOME",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Depreciation, supplemental",
+          "section": false,
+          "values": [
+            2.05,
+            1.67,
+            1.67,
+            1.31,
+            0.78
+          ],
+          "raw": [
+            "2.05",
+            "1.67",
+            "1.67",
+            "1.31",
+            "0.78"
+          ]
+        },
+        {
+          "label": "Total special items",
+          "section": false,
+          "values": [
+            null,
+            null,
+            0.0,
+            -0.39,
+            0.0
+          ],
+          "raw": [
+            "--",
+            "--",
+            "0",
+            "(0.39)",
+            "0"
+          ]
+        },
+        {
+          "label": "NORMALISED INCOME",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Normalized income before taxes",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -17.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(17)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Effect of special items on income taxes",
+          "section": false,
+          "values": [
+            null,
+            null,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "raw": [
+            "--",
+            "--",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "label": "Income tax excluding impact of special items",
+          "section": false,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "raw": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "label": "Normalized income after tax",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -17.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(17)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Normalized income avail. to common",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -17.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(17)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Basic normalized EPS",
+          "section": false,
+          "values": [
+            -0.46,
+            -1.48,
+            -11.0,
+            -17.0,
+            -21.0
+          ],
+          "raw": [
+            "(0.46)",
+            "(1.48)",
+            "(11)",
+            "(17)",
+            "(21)"
+          ]
+        },
+        {
+          "label": "Diluted normalized EPS",
+          "section": false,
+          "values": [
+            -0.46,
+            -1.48,
+            -11.0,
+            -17.0,
+            -21.0
+          ],
+          "raw": [
+            "(0.46)",
+            "(1.48)",
+            "(11)",
+            "(17)",
+            "(21)"
+          ]
+        }
+      ]
+    },
+    "balance": {
+      "periods": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "rows": [
+        {
+          "label": "ASSETS",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Cash And Short Term Investments",
+          "section": false,
+          "values": [
+            3.62,
+            4.85,
+            0.14,
+            3.02,
+            4.1
+          ],
+          "raw": [
+            "3.62",
+            "4.85",
+            "0.14",
+            "3.02",
+            "4.10"
+          ]
+        },
+        {
+          "label": "Total Receivables, Net",
+          "section": false,
+          "values": [
+            0.13,
+            0.18,
+            0.67,
+            0.53,
+            1.03
+          ],
+          "raw": [
+            "0.13",
+            "0.18",
+            "0.67",
+            "0.53",
+            "1.03"
+          ]
+        },
+        {
+          "label": "Total Inventory",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Prepaid expenses",
+          "section": false,
+          "values": [
+            0.47,
+            0.49,
+            0.33,
+            1.88,
+            0.36
+          ],
+          "raw": [
+            "0.47",
+            "0.49",
+            "0.33",
+            "1.88",
+            "0.36"
+          ]
+        },
+        {
+          "label": "Other current assets, total",
+          "section": false,
+          "values": [
+            0.0,
+            0.02,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "0.00",
+            "0.02",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Total current assets",
+          "section": false,
+          "values": [
+            4.23,
+            5.53,
+            1.14,
+            5.42,
+            5.49
+          ],
+          "raw": [
+            "4.23",
+            "5.53",
+            "1.14",
+            "5.42",
+            "5.49"
+          ]
+        },
+        {
+          "label": "Property, plant & equipment, net",
+          "section": false,
+          "values": [
+            5.9,
+            5.69,
+            4.94,
+            3.71,
+            3.58
+          ],
+          "raw": [
+            "5.90",
+            "5.69",
+            "4.94",
+            "3.71",
+            "3.58"
+          ]
+        },
+        {
+          "label": "Goodwill, net",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Intangibles, net",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Long term investments",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Note receivable - long term",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Other long term assets",
+          "section": false,
+          "values": [
+            0.26,
+            0.28,
+            0.17,
+            0.14,
+            0.17
+          ],
+          "raw": [
+            "0.26",
+            "0.28",
+            "0.17",
+            "0.14",
+            "0.17"
+          ]
+        },
+        {
+          "label": "Total assets",
+          "section": false,
+          "values": [
+            10.0,
+            12.0,
+            6.25,
+            9.28,
+            9.23
+          ],
+          "raw": [
+            "10",
+            "12",
+            "6.25",
+            "9.28",
+            "9.23"
+          ]
+        },
+        {
+          "label": "LIABILITIES",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Accounts payable",
+          "section": false,
+          "values": [
+            0.49,
+            1.51,
+            2.22,
+            1.27,
+            0.72
+          ],
+          "raw": [
+            "0.49",
+            "1.51",
+            "2.22",
+            "1.27",
+            "0.72"
+          ]
+        },
+        {
+          "label": "Accrued expenses",
+          "section": false,
+          "values": [
+            0.62,
+            0.5,
+            0.4,
+            0.74,
+            1.47
+          ],
+          "raw": [
+            "0.62",
+            "0.50",
+            "0.40",
+            "0.74",
+            "1.47"
+          ]
+        },
+        {
+          "label": "Notes payable/short-term debt",
+          "section": false,
+          "values": [
+            0.0,
+            0.53,
+            11.0,
+            10.0,
+            0.0
+          ],
+          "raw": [
+            "0",
+            "0.53",
+            "11",
+            "10",
+            "0"
+          ]
+        },
+        {
+          "label": "Current portion long-term debt/capital leases",
+          "section": false,
+          "values": [
+            0.17,
+            0.41,
+            0.38,
+            0.67,
+            0.64
+          ],
+          "raw": [
+            "0.17",
+            "0.41",
+            "0.38",
+            "0.67",
+            "0.64"
+          ]
+        },
+        {
+          "label": "Other current liabilities, total",
+          "section": false,
+          "values": [
+            0.5,
+            0.73,
+            0.44,
+            0.46,
+            0.56
+          ],
+          "raw": [
+            "0.50",
+            "0.73",
+            "0.44",
+            "0.46",
+            "0.56"
+          ]
+        },
+        {
+          "label": "Total current liabilities",
+          "section": false,
+          "values": [
+            1.79,
+            3.67,
+            14.0,
+            13.0,
+            3.39
+          ],
+          "raw": [
+            "1.79",
+            "3.67",
+            "14",
+            "13",
+            "3.39"
+          ]
+        },
+        {
+          "label": "Total long term debt",
+          "section": false,
+          "values": [
+            0.01,
+            0.17,
+            0.0,
+            0.01,
+            0.67
+          ],
+          "raw": [
+            "0.01",
+            "0.17",
+            "0.00",
+            "0.01",
+            "0.67"
+          ]
+        },
+        {
+          "label": "Total debt",
+          "section": false,
+          "values": [
+            0.17,
+            1.11,
+            11.0,
+            11.0,
+            1.32
+          ],
+          "raw": [
+            "0.17",
+            "1.11",
+            "11",
+            "11",
+            "1.32"
+          ]
+        },
+        {
+          "label": "Deferred income tax",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Minority interest",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Other liabilities, total",
+          "section": false,
+          "values": [
+            1.32,
+            1.41,
+            1.54,
+            0.23,
+            1.25
+          ],
+          "raw": [
+            "1.32",
+            "1.41",
+            "1.54",
+            "0.23",
+            "1.25"
+          ]
+        },
+        {
+          "label": "Total liabilities",
+          "section": false,
+          "values": [
+            3.11,
+            5.26,
+            16.0,
+            13.0,
+            5.31
+          ],
+          "raw": [
+            "3.11",
+            "5.26",
+            "16",
+            "13",
+            "5.31"
+          ]
+        },
+        {
+          "label": "SHAREHOLDERS EQUITY",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Common stock",
+          "section": false,
+          "values": [
+            0.2,
+            0.16,
+            0.02,
+            0.21,
+            0.19
+          ],
+          "raw": [
+            "0.20",
+            "0.16",
+            "0.02",
+            "0.21",
+            "0.19"
+          ]
+        },
+        {
+          "label": "Additional paid-in capital",
+          "section": false,
+          "values": [
+            135.0,
+            123.0,
+            101.0,
+            92.0,
+            84.0
+          ],
+          "raw": [
+            "135",
+            "123",
+            "101",
+            "92",
+            "84"
+          ]
+        },
+        {
+          "label": "Retained earnings (accumulated deficit)",
+          "section": false,
+          "values": [
+            -127.0,
+            -118.0,
+            -110.0,
+            -96.0,
+            -80.0
+          ],
+          "raw": [
+            "(127)",
+            "(118)",
+            "(110)",
+            "(96)",
+            "(80)"
+          ]
+        },
+        {
+          "label": "Treasury stock - common",
+          "section": false,
+          "values": [
+            -0.36,
+            -0.36,
+            -0.36,
+            -0.36,
+            -0.36
+          ],
+          "raw": [
+            "(0.36)",
+            "(0.36)",
+            "(0.36)",
+            "(0.36)",
+            "(0.36)"
+          ]
+        },
+        {
+          "label": "Unrealized gain (loss)",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Other equity, total",
+          "section": false,
+          "values": [
+            -0.04,
+            -1.92,
+            -0.04,
+            -0.04,
+            -0.04
+          ],
+          "raw": [
+            "(0.04)",
+            "(1.92)",
+            "(0.04)",
+            "(0.04)",
+            "(0.04)"
+          ]
+        },
+        {
+          "label": "Total equity",
+          "section": false,
+          "values": [
+            7.28,
+            6.25,
+            -9.56,
+            -4.22,
+            3.92
+          ],
+          "raw": [
+            "7.28",
+            "6.25",
+            "(9.56)",
+            "(4.22)",
+            "3.92"
+          ]
+        },
+        {
+          "label": "Total liabilities & shareholders' equity",
+          "section": false,
+          "values": [
+            10.0,
+            12.0,
+            6.25,
+            9.28,
+            9.23
+          ],
+          "raw": [
+            "10",
+            "12",
+            "6.25",
+            "9.28",
+            "9.23"
+          ]
+        },
+        {
+          "label": "Total common shares outstanding",
+          "section": false,
+          "values": [
+            20.0,
+            16.0,
+            1.79,
+            1.06,
+            0.96
+          ],
+          "raw": [
+            "20",
+            "16",
+            "1.79",
+            "1.06",
+            "0.96"
+          ]
+        },
+        {
+          "label": "Treasury shares - common primary issue",
+          "section": false,
+          "values": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "raw": [
+            "0.00",
+            "0.00",
+            "0.00",
+            "0.00",
+            "0.00"
+          ]
+        }
+      ]
+    },
+    "cashflow": {
+      "periods": [
+        "2025",
+        "2024",
+        "2023",
+        "2022",
+        "2021"
+      ],
+      "rows": [
+        {
+          "label": "OPERATIONS",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Net income",
+          "section": false,
+          "values": [
+            -9.06,
+            -7.79,
+            -14.0,
+            -16.0,
+            -19.0
+          ],
+          "raw": [
+            "(9.06)",
+            "(7.79)",
+            "(14)",
+            "(16)",
+            "(19)"
+          ]
+        },
+        {
+          "label": "Depreciation/depletion",
+          "section": false,
+          "values": [
+            1.76,
+            1.65,
+            1.66,
+            1.31,
+            0.78
+          ],
+          "raw": [
+            "1.76",
+            "1.65",
+            "1.66",
+            "1.31",
+            "0.78"
+          ]
+        },
+        {
+          "label": "Non-Cash items",
+          "section": false,
+          "values": [
+            1.46,
+            -0.08,
+            3.03,
+            3.7,
+            0.88
+          ],
+          "raw": [
+            "1.46",
+            "(0.08)",
+            "3.03",
+            "3.70",
+            "0.88"
+          ]
+        },
+        {
+          "label": "Cash taxes paid, supplemental",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Cash interest paid, supplemental",
+          "section": false,
+          "values": [
+            0.01,
+            0.02,
+            0.23,
+            0.04,
+            0.02
+          ],
+          "raw": [
+            "0.01",
+            "0.02",
+            "0.23",
+            "0.04",
+            "0.02"
+          ]
+        },
+        {
+          "label": "Changes in working capital",
+          "section": false,
+          "values": [
+            -0.92,
+            -0.07,
+            1.44,
+            -1.97,
+            0.59
+          ],
+          "raw": [
+            "(0.92)",
+            "(0.07)",
+            "1.44",
+            "(1.97)",
+            "0.59"
+          ]
+        },
+        {
+          "label": "Total cash from operations",
+          "section": false,
+          "values": [
+            -6.76,
+            -6.29,
+            -7.77,
+            -13.0,
+            -17.0
+          ],
+          "raw": [
+            "(6.76)",
+            "(6.29)",
+            "(7.77)",
+            "(13)",
+            "(17)"
+          ]
+        },
+        {
+          "label": "INVESTING",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Capital expenditures",
+          "section": false,
+          "values": [
+            -2.55,
+            -1.81,
+            -1.45,
+            -1.48,
+            -1.15
+          ],
+          "raw": [
+            "(2.55)",
+            "(1.81)",
+            "(1.45)",
+            "(1.48)",
+            "(1.15)"
+          ]
+        },
+        {
+          "label": "Other investing and cash flow items, total",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            0.0
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "0.00"
+          ]
+        },
+        {
+          "label": "Total cash from investing",
+          "section": false,
+          "values": [
+            -2.55,
+            -1.81,
+            -1.45,
+            -1.48,
+            -1.15
+          ],
+          "raw": [
+            "(2.55)",
+            "(1.81)",
+            "(1.45)",
+            "(1.48)",
+            "(1.15)"
+          ]
+        },
+        {
+          "label": "FINANCING",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Financing cash flow items",
+          "section": false,
+          "values": [
+            null,
+            0.0,
+            -0.01,
+            -0.62,
+            null
+          ],
+          "raw": [
+            "--",
+            "0",
+            "(0.01)",
+            "(0.62)",
+            "--"
+          ]
+        },
+        {
+          "label": "Total cash dividends paid",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            0.0
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "0"
+          ]
+        },
+        {
+          "label": "Issuance (retirement) of stock, net",
+          "section": false,
+          "values": [
+            8.47,
+            13.0,
+            7.03,
+            6.35,
+            5.8
+          ],
+          "raw": [
+            "8.47",
+            "13",
+            "7.03",
+            "6.35",
+            "5.80"
+          ]
+        },
+        {
+          "label": "Issuance (retirement) of debt, net",
+          "section": false,
+          "values": [
+            -0.39,
+            -0.6,
+            -0.69,
+            7.86,
+            -0.7
+          ],
+          "raw": [
+            "(0.39)",
+            "(0.6)",
+            "(0.69)",
+            "7.86",
+            "(0.7)"
+          ]
+        },
+        {
+          "label": "Total cash from financing",
+          "section": false,
+          "values": [
+            8.08,
+            13.0,
+            6.34,
+            14.0,
+            5.1
+          ],
+          "raw": [
+            "8.08",
+            "13",
+            "6.34",
+            "14",
+            "5.10"
+          ]
+        },
+        {
+          "label": "NET CHANGE IN CASH",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Foreign exchange effects",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        },
+        {
+          "label": "Net change in cash",
+          "section": false,
+          "values": [
+            -1.23,
+            4.71,
+            -2.88,
+            -1.09,
+            -13.0
+          ],
+          "raw": [
+            "(1.23)",
+            "4.71",
+            "(2.88)",
+            "(1.09)",
+            "(13)"
+          ]
+        },
+        {
+          "label": "Net cash-begin balance/reserved for future use",
+          "section": false,
+          "values": [
+            4.85,
+            0.14,
+            3.02,
+            4.1,
+            17.0
+          ],
+          "raw": [
+            "4.85",
+            "0.14",
+            "3.02",
+            "4.10",
+            "17"
+          ]
+        },
+        {
+          "label": "Net cash-end balance/reserved for future use",
+          "section": false,
+          "values": [
+            3.62,
+            4.85,
+            0.14,
+            3.02,
+            4.1
+          ],
+          "raw": [
+            "3.62",
+            "4.85",
+            "0.14",
+            "3.02",
+            "4.10"
+          ]
+        },
+        {
+          "label": "SUPPLEMENTAL INCOME",
+          "section": true,
+          "values": [],
+          "raw": []
+        },
+        {
+          "label": "Depreciation, supplemental",
+          "section": false,
+          "values": [
+            1.76,
+            1.65,
+            1.66,
+            1.31,
+            0.78
+          ],
+          "raw": [
+            "1.76",
+            "1.65",
+            "1.66",
+            "1.31",
+            "0.78"
+          ]
+        },
+        {
+          "label": "Cash interest paid, supplemental",
+          "section": false,
+          "values": [
+            0.01,
+            0.02,
+            0.23,
+            0.04,
+            0.02
+          ],
+          "raw": [
+            "0.01",
+            "0.02",
+            "0.23",
+            "0.04",
+            "0.02"
+          ]
+        },
+        {
+          "label": "Cash taxes paid, supplemental",
+          "section": false,
+          "values": [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "raw": [
+            "--",
+            "--",
+            "--",
+            "--",
+            "--"
+          ]
+        }
+      ]
+    }
+  },
+  "ft_url": "https://markets.ft.com/data/equities/tearsheet/financials?s=INTZ:NAQ"
+}

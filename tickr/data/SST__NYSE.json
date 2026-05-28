@@ -1,0 +1,98 @@
+{
+  "name": "Scottish Oriental Smaller Companies Trust Plc",
+  "ly_ticker": "SST",
+  "ft_symbol": "SST:LSE",
+  "exchange": "NYSE",
+  "country": "United States",
+  "sector": "Software & Cloud Services",
+  "bucket": "10M_to_25M",
+  "ly_market_cap_usd": 23000000.0,
+  "price": 279.0,
+  "currency": "GBX",
+  "balance_sheet_summary": {},
+  "metrics": {},
+  "statements": {
+    "income": {
+      "periods": [
+        "--"
+      ],
+      "rows": [
+        {
+          "label": "Net profit margin",
+          "section": false,
+          "values": [
+            null
+          ],
+          "raw": [
+            "--"
+          ]
+        },
+        {
+          "label": "Operating margin",
+          "section": false,
+          "values": [
+            null
+          ],
+          "raw": [
+            "--"
+          ]
+        }
+      ]
+    },
+    "balance": {
+      "periods": [
+        "--"
+      ],
+      "rows": [
+        {
+          "label": "Net profit margin",
+          "section": false,
+          "values": [
+            null
+          ],
+          "raw": [
+            "--"
+          ]
+        },
+        {
+          "label": "Operating margin",
+          "section": false,
+          "values": [
+            null
+          ],
+          "raw": [
+            "--"
+          ]
+        }
+      ]
+    },
+    "cashflow": {
+      "periods": [
+        "--"
+      ],
+      "rows": [
+        {
+          "label": "Net profit margin",
+          "section": false,
+          "values": [
+            null
+          ],
+          "raw": [
+            "--"
+          ]
+        },
+        {
+          "label": "Operating margin",
+          "section": false,
+          "values": [
+            null
+          ],
+          "raw": [
+            "--"
+          ]
+        }
+      ]
+    }
+  },
+  "ft_url": "https://markets.ft.com/data/equities/tearsheet/financials?s=SST:LSE"
+}

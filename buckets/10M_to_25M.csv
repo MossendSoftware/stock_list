@@ -1,0 +1,195 @@
+rank,name,ticker,exchange,country,sector,currency,market_cap_raw,market_cap_local,market_cap_usd,dividend_yield,pe_ratio,price,url
+5664,YOC AG,YOC,XETRA,Germany,Software & Cloud Services,EUR,€23m,23000000.0,24840000.0,0.00%,N/A,€6.35,https://lightyear.com/en/stock/YOC:XETRA
+5665,TherapeuticsMD Inc.,TXMD,NASDAQ,United States,Health,USD,$24m,24000000.0,24000000.0,0.00%,136.437,$2.07,https://lightyear.com/en/stock/TXMD:NASDAQ
+5666,Greenidge Generation Holdings,GREE,NASDAQ,United States,Software & Cloud Services,USD,$24m,24000000.0,24000000.0,0.00%,3.727,$1.44,https://lightyear.com/en/stock/GREE:NASDAQ
+5667,Euroholdings,EHLD,NASDAQ,United States,Mobility,USD,$24m,24000000.0,24000000.0,6.50%,4.026,$8.59,https://lightyear.com/en/stock/EHLD:NASDAQ
+5668,Marker Therapeutics Inc.,MRKR,NASDAQ,United States,Health,USD,$24m,24000000.0,24000000.0,0.00%,N/A,$1.48,https://lightyear.com/en/stock/MRKR:NASDAQ
+5669,Inuvo,INUV,AMEX,United States,Software & Cloud Services,USD,$24m,24000000.0,24000000.0,0.00%,N/A,$1.65,https://lightyear.com/en/stock/INUV:AMEX
+5670,Stardust Power Inc,SDST,NASDAQ,United States,Industrials,USD,$24m,24000000.0,24000000.0,0.00%,N/A,$2.28,https://lightyear.com/en/stock/SDST:NASDAQ
+5671,Quest Resource,QRHC,NASDAQ,United States,Business services,USD,$24m,24000000.0,24000000.0,0.00%,N/A,$1.15,https://lightyear.com/en/stock/QRHC:NASDAQ
+5672,Werewolf Therapeutics,HOWL,NASDAQ,United States,Health,USD,$24m,24000000.0,24000000.0,0.00%,N/A,$0.46,https://lightyear.com/en/stock/HOWL:NASDAQ
+5673,Aytu BioPharma Inc.,AYTU,NASDAQ,United States,Health,USD,$24m,24000000.0,24000000.0,0.00%,N/A,$2.20,https://lightyear.com/en/stock/AYTU:NASDAQ
+5674,NanoRepro AG,NN6,XETRA,Germany,Health,EUR,€22m,22000000.0,23760000.0,0.00%,N/A,€1.75,https://lightyear.com/en/stock/NN6:XETRA
+5675,LS telcom AG,LSX,XETRA,Germany,Software & Cloud Services,EUR,€22m,22000000.0,23760000.0,0.00%,28.298,€3.79,https://lightyear.com/en/stock/LSX:XETRA
+5676,LightOn SAS,ALTAI,PAR,France,Software & Cloud Services,EUR,€22m,22000000.0,23760000.0,0.00%,N/A,€3.50,https://lightyear.com/en/stock/ALTAI:PAR
+5677,Murano Global Investments,MRNO,NASDAQ,United States,Real Estate,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$0.32,https://lightyear.com/en/stock/MRNO:NASDAQ
+5678,Upland Software,UPLD,NASDAQ,United States,Software & Cloud Services,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$0.87,https://lightyear.com/en/stock/UPLD:NASDAQ
+5679,System1,SST,NYSE,United States,Software & Cloud Services,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$2.80,https://lightyear.com/en/stock/SST:NYSE
+5680,Natural Health Trends,NHTC,NASDAQ,United States,Consumer Essentials,USD,$23m,23000000.0,23000000.0,14.71%,N/A,$2.66,https://lightyear.com/en/stock/NHTC:NASDAQ
+5681,Core AI Holdings,CHAI,NASDAQ,United States,Communication,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$1.07,https://lightyear.com/en/stock/CHAI:NASDAQ
+5682,VolitionRX,VNRX,AMEX,United States,Health,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$2.82,https://lightyear.com/en/stock/VNRX:AMEX
+5683,Longeveron,LGVN,NASDAQ,United States,Health,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$0.81,https://lightyear.com/en/stock/LGVN:NASDAQ
+5684,Ark Restaurants,ARKR,NASDAQ,United States,Consumer Discretionary,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$6.44,https://lightyear.com/en/stock/ARKR:NASDAQ
+5685,Traws Pharma Inc.,TRAW,NASDAQ,United States,Health,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$1.48,https://lightyear.com/en/stock/TRAW:NASDAQ
+5686,Pasithea Therapeutics Corp.,KTTA,NASDAQ,United States,Health,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$0.71,https://lightyear.com/en/stock/KTTA:NASDAQ
+5687,Astrotech Corporation (DE),ASTC,NASDAQ,United States,Digital Hardware,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$19.15,https://lightyear.com/en/stock/ASTC:NASDAQ
+5688,Cohen & Company,COHN,AMEX,United States,Finance,USD,$23m,23000000.0,23000000.0,9.10%,2.422,$10.90,https://lightyear.com/en/stock/COHN:AMEX
+5689,Femasys,FEMY,NASDAQ,United States,Health,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$0.36,https://lightyear.com/en/stock/FEMY:NASDAQ
+5690,VYNE Therapeutics Inc.,VYNE,NASDAQ,United States,Health,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$0.68,https://lightyear.com/en/stock/VYNE:NASDAQ
+5691,All In FutureTech Alliance,AIFA,NASDAQ,United States,Consumer Discretionary,USD,$23m,23000000.0,23000000.0,0.00%,N/A,$0.54,https://lightyear.com/en/stock/AIFA:NASDAQ
+5692,Cliq Digital AG,CLIQ,XETRA,Germany,Software & Cloud Services,EUR,€21m,21000000.0,22680000.0,1.10%,N/A,€3.71,https://lightyear.com/en/stock/CLIQ:XETRA
+5693,STS Group AG,SF3,XETRA,Germany,Industrials,EUR,€21m,21000000.0,22680000.0,1.58%,N/A,€3.20,https://lightyear.com/en/stock/SF3:XETRA
+5694,A.S. Création Tapeten AG,ACWN,XETRA,Germany,Consumer Discretionary,EUR,€21m,21000000.0,22680000.0,1.99%,"5,348.259",€7.50,https://lightyear.com/en/stock/ACWN:XETRA
+5695,INTERSHOP Communications AG,ISHA,XETRA,Germany,Software & Cloud Services,EUR,€21m,21000000.0,22680000.0,0.00%,N/A,€1.12,https://lightyear.com/en/stock/ISHA:XETRA
+5696,Weng Fine Art AG,WFA,XETRA,Germany,Consumer Discretionary,EUR,€21m,21000000.0,22680000.0,3.80%,N/A,€3.92,https://lightyear.com/en/stock/WFA:XETRA
+5697,AB INVL Baltic Farmland,INL1L,XLIT,Lithuania,Real Estate,EUR,€21m,21000000.0,22680000.0,0.00%,25.318,€6.50,https://lightyear.com/en/stock/INL1L:XLIT
+5698,Flux Power,FLUX,NASDAQ,United States,Industrials,USD,$22m,22000000.0,22000000.0,0.00%,N/A,$1.10,https://lightyear.com/en/stock/FLUX:NASDAQ
+5699,Planet Green Holdings Corp.,PLAG,AMEX,United States,Consumer Essentials,USD,$22m,22000000.0,22000000.0,0.00%,N/A,$1.57,https://lightyear.com/en/stock/PLAG:AMEX
+5700,Sensei Biotherapeutics,SNSE,NASDAQ,United States,Health,USD,$22m,22000000.0,22000000.0,0.00%,N/A,$16.95,https://lightyear.com/en/stock/SNSE:NASDAQ
+5701,Ming Shing Group Holdings,MSW,NASDAQ,United States,Industrials,USD,$22m,22000000.0,22000000.0,0.00%,N/A,$1.42,https://lightyear.com/en/stock/MSW:NASDAQ
+5702,NextCure,NXTC,NASDAQ,United States,Health,USD,$22m,22000000.0,22000000.0,0.00%,N/A,$6.11,https://lightyear.com/en/stock/NXTC:NASDAQ
+5703,Urban One,UONE,NASDAQ,United States,Communication,USD,$22m,22000000.0,22000000.0,0.00%,N/A,$6.06,https://lightyear.com/en/stock/UONE:NASDAQ
+5704,Urban One,UONEK,NASDAQ,United States,Communication,USD,$22m,22000000.0,22000000.0,0.00%,N/A,$4.71,https://lightyear.com/en/stock/UONEK:NASDAQ
+5705,MV Oil Trust,MVO,NYSE,United States,Energy,USD,$22m,22000000.0,22000000.0,36.17%,2.335,$1.91,https://lightyear.com/en/stock/MVO:NYSE
+5706,Retractable Technologies,RVP,AMEX,United States,Health,USD,$21m,21000000.0,21000000.0,0.00%,N/A,$0.73,https://lightyear.com/en/stock/RVP:AMEX
+5707,CKX Lands,CKX,AMEX,United States,Real Estate,USD,$21m,21000000.0,21000000.0,0.00%,7.269,$10.25,https://lightyear.com/en/stock/CKX:AMEX
+5708,Tungray Technologies Inc,TRSG,NASDAQ,United States,Digital Hardware,USD,$21m,21000000.0,21000000.0,0.00%,N/A,$1.30,https://lightyear.com/en/stock/TRSG:NASDAQ
+5709,Motorsport Games Inc.,MSGM,NASDAQ,United States,Consumer Discretionary,USD,$21m,21000000.0,21000000.0,0.00%,3.647,$4.05,https://lightyear.com/en/stock/MSGM:NASDAQ
+5710,Concord Medical Services,CCM,NYSE,United States,Health,USD,$21m,21000000.0,21000000.0,0.00%,N/A,$4.92,https://lightyear.com/en/stock/CCM:NYSE
+5711,Curis,CRIS,NASDAQ,United States,Health,USD,$21m,21000000.0,21000000.0,0.00%,N/A,$0.52,https://lightyear.com/en/stock/CRIS:NASDAQ
+5712,Lifeward,LFWD,NASDAQ,United States,Health,USD,$21m,21000000.0,21000000.0,0.00%,N/A,$7.99,https://lightyear.com/en/stock/LFWD:NASDAQ
+5713,Intelligent Group,INTJ,NASDAQ,United States,Communication,USD,$21m,21000000.0,21000000.0,0.00%,N/A,$9.67,https://lightyear.com/en/stock/INTJ:NASDAQ
+5714,Smith Micro Software,SMSI,NASDAQ,United States,Software & Cloud Services,USD,$21m,21000000.0,21000000.0,0.00%,N/A,$0.79,https://lightyear.com/en/stock/SMSI:NASDAQ
+5715,Youxin Technology Ltd,YAAS,NASDAQ,United States,Business services,USD,$21m,21000000.0,21000000.0,0.00%,N/A,$0.88,https://lightyear.com/en/stock/YAAS:NASDAQ
+5716,Brilliant Earth Group,BRLT,NASDAQ,United States,Consumer Discretionary,USD,$21m,21000000.0,21000000.0,78.74%,N/A,$1.26,https://lightyear.com/en/stock/BRLT:NASDAQ
+5717,Cel-Sci,CVM,AMEX,United States,Health,USD,$20m,20000000.0,20000000.0,0.00%,N/A,$1.45,https://lightyear.com/en/stock/CVM:AMEX
+5718,Lakeside Holding Limited,LSH,NASDAQ,United States,Mobility,USD,$20m,20000000.0,20000000.0,0.00%,N/A,$0.62,https://lightyear.com/en/stock/LSH:NASDAQ
+5719,Phoenix New Media Limited ADS,FENG,NYSE,United States,Software & Cloud Services,USD,$20m,20000000.0,20000000.0,0.00%,11.528,$1.67,https://lightyear.com/en/stock/FENG:NYSE
+5720,Rain Enhancement Technologies,RAIN,NASDAQ,United States,Industrials,USD,$20m,20000000.0,20000000.0,0.00%,N/A,$2.39,https://lightyear.com/en/stock/RAIN:NASDAQ
+5721,authID Inc.,AUID,NASDAQ,United States,Software & Cloud Services,USD,$20m,20000000.0,20000000.0,0.00%,N/A,$1.21,https://lightyear.com/en/stock/AUID:NASDAQ
+5722,Orbsat,NXPL,NASDAQ,United States,Communication,USD,$20m,20000000.0,20000000.0,0.00%,N/A,$7.01,https://lightyear.com/en/stock/NXPL:NASDAQ
+5723,Foxx Development Holdings Inc.,FOXX,NASDAQ,United States,Digital Hardware,USD,$20m,20000000.0,20000000.0,0.00%,N/A,$2.91,https://lightyear.com/en/stock/FOXX:NASDAQ
+5724,Mind CTI,MNDO,NASDAQ,United States,Software & Cloud Services,USD,$20m,20000000.0,20000000.0,0.00%,6.596,$0.97,https://lightyear.com/en/stock/MNDO:NASDAQ
+5725,Harte-Hanks Inc.,HHS,NASDAQ,United States,Communication,USD,$20m,20000000.0,20000000.0,0.00%,N/A,$2.60,https://lightyear.com/en/stock/HHS:NASDAQ
+5726,Quince Therapeutics,QNCX,NASDAQ,United States,Health,USD,$20m,20000000.0,20000000.0,0.00%,N/A,$1.16,https://lightyear.com/en/stock/QNCX:NASDAQ
+5727,Nordecon AS,NCN1T,XTAL,Estonia,Industrials,EUR,€18m,18000000.0,19440000.0,0.00%,8.361,€0.58,https://lightyear.com/en/stock/NCN1T:XTAL
+5728,Maisons du Monde S.A.,MDM,PAR,France,Consumer Discretionary,EUR,€18m,18000000.0,19440000.0,0.00%,N/A,€0.46,https://lightyear.com/en/stock/MDM:PAR
+5729,Rocky Mountain Chocolate Factory,RMCF,NASDAQ,United States,Consumer Essentials,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$2.08,https://lightyear.com/en/stock/RMCF:NASDAQ
+5730,Rectitude Holdings Ltd,RECT,NASDAQ,United States,Business services,USD,$19m,19000000.0,19000000.0,0.00%,6.523,$1.39,https://lightyear.com/en/stock/RECT:NASDAQ
+5731,Tandy Leather Factory Inc.,TLF,NASDAQ,United States,Consumer Discretionary,USD,$19m,19000000.0,19000000.0,32.19%,N/A,$2.35,https://lightyear.com/en/stock/TLF:NASDAQ
+5732,Citius Pharmaceuticals,CTXR,NASDAQ,United States,Health,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$0.67,https://lightyear.com/en/stock/CTXR:NASDAQ
+5733,Pop Culture Group Co. Ltd,CPOP,NASDAQ,United States,Consumer Discretionary,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$0.30,https://lightyear.com/en/stock/CPOP:NASDAQ
+5734,Cyngn Inc.,CYN,NASDAQ,United States,Software & Cloud Services,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$1.43,https://lightyear.com/en/stock/CYN:NASDAQ
+5735,Ashford Hospitality Trust Inc.,AHT,NYSE,United States,Real Estate,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$2.96,https://lightyear.com/en/stock/AHT:NYSE
+5736,Fathom,FTHM,NASDAQ,United States,Real Estate,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$0.57,https://lightyear.com/en/stock/FTHM:NASDAQ
+5737,SPAR,SGRP,NASDAQ,United States,Communication,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$0.72,https://lightyear.com/en/stock/SGRP:NASDAQ
+5738,SemiLEDS,LEDS,NASDAQ,United States,Semiconductors,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$2.20,https://lightyear.com/en/stock/LEDS:NASDAQ
+5739,NewcelX Ltd.,NCEL,NASDAQ,United States,Health,USD,$19m,19000000.0,19000000.0,0.00%,N/A,$3.56,https://lightyear.com/en/stock/NCEL:NASDAQ
+5740,SYZYGY AG,SYZ,XETRA,Germany,Communication,EUR,€17m,17000000.0,18360000.0,0.00%,N/A,€1.28,https://lightyear.com/en/stock/SYZ:XETRA
+5741,Bloomia Holdings,TULP,NASDAQ,United States,Communication,USD,$18m,18000000.0,18000000.0,0.00%,9.67,$3.93,https://lightyear.com/en/stock/TULP:NASDAQ
+5742,Castor Maritime Inc.,CTRM,NASDAQ,United States,Mobility,USD,$18m,18000000.0,18000000.0,0.00%,5.327,$1.91,https://lightyear.com/en/stock/CTRM:NASDAQ
+5743,Universal Safety Products,UUU,AMEX,United States,Digital Hardware,USD,$18m,18000000.0,18000000.0,14.81%,N/A,$7.05,https://lightyear.com/en/stock/UUU:AMEX
+5744,Medalist Diversified REIT Inc.,MDRR,NASDAQ,United States,Real Estate,USD,$18m,18000000.0,18000000.0,2.40%,2.052,$11.32,https://lightyear.com/en/stock/MDRR:NASDAQ
+5745,Lipocine Inc.,LPCN,NASDAQ,United States,Health,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$2.27,https://lightyear.com/en/stock/LPCN:NASDAQ
+5746,IceCure Medical,ICCM,NASDAQ,United States,Health,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$0.23,https://lightyear.com/en/stock/ICCM:NASDAQ
+5747,Presurance Holdings,PRHI,NASDAQ,United States,Finance,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$0.68,https://lightyear.com/en/stock/PRHI:NASDAQ
+5748,LQR House,YHC,NASDAQ,United States,Communication,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$0.85,https://lightyear.com/en/stock/YHC:NASDAQ
+5749,TOMI Environmental Solutions,TOMZ,NASDAQ,United States,Business services,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$0.89,https://lightyear.com/en/stock/TOMZ:NASDAQ
+5750,IRIDEX,IRIX,NASDAQ,United States,Health,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$1.04,https://lightyear.com/en/stock/IRIX:NASDAQ
+5751,Exicure Inc.,XCUR,NASDAQ,United States,Health,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$2.77,https://lightyear.com/en/stock/XCUR:NASDAQ
+5752,IN8bio,INAB,NASDAQ,United States,Health,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$1.75,https://lightyear.com/en/stock/INAB:NASDAQ
+5753,Passage Bio,PASG,NASDAQ,United States,Health,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$5.60,https://lightyear.com/en/stock/PASG:NASDAQ
+5754,CISO Global Inc.,CISO,NASDAQ,United States,Business services,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$0.36,https://lightyear.com/en/stock/CISO:NASDAQ
+5755,Australian Oilseeds Holdings Limited,COOT,NASDAQ,United States,Consumer Essentials,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$0.63,https://lightyear.com/en/stock/COOT:NASDAQ
+5756,Austin Gold Corp.,AUST,AMEX,United States,Materials,USD,$18m,18000000.0,18000000.0,0.00%,N/A,$1.31,https://lightyear.com/en/stock/AUST:AMEX
+5757,AS Amber Latvijas balzams,BAL1R,XRIS,Latvia,Consumer Essentials,EUR,€16m,16000000.0,17280000.0,0.00%,6.405,€2.21,https://lightyear.com/en/stock/BAL1R:XRIS
+5758,Auga Group AB,AUG1L,XLIT,Lithuania,Consumer Essentials,EUR,€16m,16000000.0,17280000.0,0.00%,N/A,€0.07,https://lightyear.com/en/stock/AUG1L:XLIT
+5759,Adagio Medical Holdings Inc,ADGM,NASDAQ,United States,Health,USD,$17m,17000000.0,17000000.0,0.00%,N/A,$0.72,https://lightyear.com/en/stock/ADGM:NASDAQ
+5760,T3 Defense,DFNS,NASDAQ,United States,Software & Cloud Services,USD,$17m,17000000.0,17000000.0,0.00%,N/A,$0.45,https://lightyear.com/en/stock/DFNS:NASDAQ
+5761,SynBiotic SE,SBX,XETRA,Germany,Health,EUR,€15m,15000000.0,16200000.000000002,0.00%,N/A,€1.73,https://lightyear.com/en/stock/SBX:XETRA
+5762,The Glimpse Group,GGRP,NASDAQ,United States,Business services,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$0.75,https://lightyear.com/en/stock/GGRP:NASDAQ
+5763,Greenland Technologies,GTEC,NASDAQ,United States,Industrials,USD,$16m,16000000.0,16000000.0,0.00%,2.305,$0.70,https://lightyear.com/en/stock/GTEC:NASDAQ
+5764,Millennium Group International Holdings Limited,MGIH,NASDAQ,United States,Materials,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$1.47,https://lightyear.com/en/stock/MGIH:NASDAQ
+5765,Intrusion Inc.,INTZ,NASDAQ,United States,Software & Cloud Services,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$0.79,https://lightyear.com/en/stock/INTZ:NASDAQ
+5766,GigaMedia,GIGM,NASDAQ,United States,Consumer Discretionary,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$1.49,https://lightyear.com/en/stock/GIGM:NASDAQ
+5767,Dolphin Entertainment Inc.,DLPN,NASDAQ,United States,Consumer Discretionary,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$1.18,https://lightyear.com/en/stock/DLPN:NASDAQ
+5768,Skillful Craftsman Education Technology,EDTK,NASDAQ,United States,Consumer Discretionary,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$1.04,https://lightyear.com/en/stock/EDTK:NASDAQ
+5769,Scienture Holdings,SCNX,NASDAQ,United States,Health,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$0.41,https://lightyear.com/en/stock/SCNX:NASDAQ
+5770,BiomX Inc.,PHGE,AMEX,United States,Health,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$1.65,https://lightyear.com/en/stock/PHGE:AMEX
+5771,Vyome Holdings,HIND,NASDAQ,United States,Health,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$2.32,https://lightyear.com/en/stock/HIND:NASDAQ
+5772,Barnwell Industries,BRN,AMEX,United States,Energy,USD,$16m,16000000.0,16000000.0,0.00%,N/A,$1.07,https://lightyear.com/en/stock/BRN:AMEX
+5773,KPS AG,KSC,XETRA,Germany,Business services,EUR,€14m,14000000.0,15120000.000000002,0.00%,N/A,€0.34,https://lightyear.com/en/stock/KSC:XETRA
+5774,KAP AG,IUR,XETRA,Germany,Industrials,EUR,€14m,14000000.0,15120000.000000002,0.00%,N/A,€1.81,https://lightyear.com/en/stock/IUR:XETRA
+5775,123fahrschule SE,123F,XETRA,Germany,Consumer Discretionary,EUR,€14m,14000000.0,15120000.000000002,0.00%,N/A,€2.55,https://lightyear.com/en/stock/123F:XETRA
+5776,Cocrystal Pharma Inc.,COCP,NASDAQ,United States,Health,USD,$15m,15000000.0,15000000.0,0.00%,N/A,$1.11,https://lightyear.com/en/stock/COCP:NASDAQ
+5777,Dogness (International) Corporation,DOGZ,NASDAQ,United States,Consumer Discretionary,USD,$15m,15000000.0,15000000.0,0.00%,N/A,$1.05,https://lightyear.com/en/stock/DOGZ:NASDAQ
+5778,Lexaria Bioscience,LEXX,NASDAQ,United States,Health,USD,$15m,15000000.0,15000000.0,0.00%,N/A,$0.62,https://lightyear.com/en/stock/LEXX:NASDAQ
+5779,Guardforce AI Co. Limited,GFAI,NASDAQ,United States,Business services,USD,$15m,15000000.0,15000000.0,0.00%,N/A,$0.50,https://lightyear.com/en/stock/GFAI:NASDAQ
+5780,mF International Limited,MFI,NASDAQ,United States,Finance,USD,$15m,15000000.0,15000000.0,0.00%,N/A,$9.63,https://lightyear.com/en/stock/MFI:NASDAQ
+5781,Air Industries Group,AIRI,AMEX,United States,Industrials,USD,$15m,15000000.0,15000000.0,0.00%,N/A,$3.05,https://lightyear.com/en/stock/AIRI:AMEX
+5782,Cosmos Health Inc.,COSM,NASDAQ,United States,Health,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$0.26,https://lightyear.com/en/stock/COSM:NASDAQ
+5783,Mixed Martial Arts Group,MMA,AMEX,United States,Consumer Discretionary,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$0.55,https://lightyear.com/en/stock/MMA:AMEX
+5784,GT Biopharma Inc,GTBP,NASDAQ,United States,Health,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$0.41,https://lightyear.com/en/stock/GTBP:NASDAQ
+5785,CytoMed Therapeutics Limited,GDTC,NASDAQ,United States,Health,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$1.13,https://lightyear.com/en/stock/GDTC:NASDAQ
+5786,SOLAI Limited,SLAI,NYSE,United States,Software & Cloud Services,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$0.75,https://lightyear.com/en/stock/SLAI:NYSE
+5787,CXApp Inc. When Issued,CXAI,NASDAQ,United States,Software & Cloud Services,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$0.20,https://lightyear.com/en/stock/CXAI:NASDAQ
+5788,HCW Biologics,HCWB,NASDAQ,United States,Health,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$2.11,https://lightyear.com/en/stock/HCWB:NASDAQ
+5789,BioLineRx,BLRX,NASDAQ,United States,Health,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$3.43,https://lightyear.com/en/stock/BLRX:NASDAQ
+5790,SurgePays,SURG,NASDAQ,United States,Communication,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$0.55,https://lightyear.com/en/stock/SURG:NASDAQ
+5791,Good Times Restaurants,GTIM,NASDAQ,United States,Consumer Discretionary,USD,$14m,14000000.0,14000000.0,0.00%,7.718,$1.31,https://lightyear.com/en/stock/GTIM:NASDAQ
+5792,Armlogi Holding Corp.,BTOC,NASDAQ,United States,Mobility,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$0.31,https://lightyear.com/en/stock/BTOC:NASDAQ
+5793,Trinity Biotech plc ADS,TRIB,NASDAQ,United States,Health,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$0.70,https://lightyear.com/en/stock/TRIB:NASDAQ
+5794,Bionano Genomics,BNGO,NASDAQ,United States,Health,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$1.24,https://lightyear.com/en/stock/BNGO:NASDAQ
+5795,Origin Agritech,SEED,NASDAQ,United States,Consumer Essentials,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$1.10,https://lightyear.com/en/stock/SEED:NASDAQ
+5796,Ebang International Holdings Inc.,EBON,NASDAQ,United States,Digital Hardware,USD,$14m,14000000.0,14000000.0,0.00%,N/A,$2.02,https://lightyear.com/en/stock/EBON:NASDAQ
+5797,CL Workshop Group Limited,NWGL,NASDAQ,United States,Materials,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$0.84,https://lightyear.com/en/stock/NWGL:NASDAQ
+5798,Taoping Inc,TAOP,NASDAQ,United States,Business services,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$1.22,https://lightyear.com/en/stock/TAOP:NASDAQ
+5799,Cyclerion Therapeutics Inc.,CYCN,NASDAQ,United States,Health,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$3.20,https://lightyear.com/en/stock/CYCN:NASDAQ
+5800,Willamette Valley Vineyards,WVVI,NASDAQ,United States,Consumer Essentials,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$2.70,https://lightyear.com/en/stock/WVVI:NASDAQ
+5801,"Moleculin Biotech, Inc.",MBRX,NASDAQ,United States,Health,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$2.65,https://lightyear.com/en/stock/MBRX:NASDAQ
+5802,Peraso Inc.,PRSO,NASDAQ,United States,Semiconductors,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$1.16,https://lightyear.com/en/stock/PRSO:NASDAQ
+5803,Ernexa Therapeutics,ERNA,NASDAQ,United States,Health,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$11.41,https://lightyear.com/en/stock/ERNA:NASDAQ
+5804,Birks Group,BGI,AMEX,United States,Consumer Discretionary,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$0.66,https://lightyear.com/en/stock/BGI:AMEX
+5805,Bonk Inc,BNKK,NASDAQ,United States,Consumer Essentials,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$1.74,https://lightyear.com/en/stock/BNKK:NASDAQ
+5806,Phio Pharmaceuticals Corp.,PHIO,NASDAQ,United States,Health,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$1.11,https://lightyear.com/en/stock/PHIO:NASDAQ
+5807,Cellyan Biotechnology,HKPD,NASDAQ,United States,Mobility,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$0.55,https://lightyear.com/en/stock/HKPD:NASDAQ
+5808,Creative Media & Community Trust,CMCT,NASDAQ,United States,Real Estate,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$4.79,https://lightyear.com/en/stock/CMCT:NASDAQ
+5809,MultiSensor AI,MSAI,NASDAQ,United States,Digital Hardware,USD,$13m,13000000.0,13000000.0,0.00%,N/A,$6.28,https://lightyear.com/en/stock/MSAI:NASDAQ
+5810,REE Automotive,REE,NASDAQ,United States,Mobility,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$0.42,https://lightyear.com/en/stock/REE:NASDAQ
+5811,LiqTech International Inc.,LIQT,NASDAQ,United States,Industrials,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$1.17,https://lightyear.com/en/stock/LIQT:NASDAQ
+5812,Bullfrog AI Holdings Inc.,BFRG,NASDAQ,United States,Health,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$0.70,https://lightyear.com/en/stock/BFRG:NASDAQ
+5813,T Stamp Inc.,IDAI,NASDAQ,United States,Software & Cloud Services,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$2.36,https://lightyear.com/en/stock/IDAI:NASDAQ
+5814,Check-Cap Ltd.,MBAI,NASDAQ,United States,Health,USD,$12m,12000000.0,12000000.0,0.00%,2.559,$1.74,https://lightyear.com/en/stock/MBAI:NASDAQ
+5815,Educational Development,EDUC,NASDAQ,United States,Consumer Discretionary,USD,$12m,12000000.0,12000000.0,0.00%,5.37,$1.45,https://lightyear.com/en/stock/EDUC:NASDAQ
+5816,Lobo EV Technologies Ltd,LOBO,NASDAQ,United States,Mobility,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$0.74,https://lightyear.com/en/stock/LOBO:NASDAQ
+5817,Maris-Tech Ltd.,MTEK,NASDAQ,United States,Digital Hardware,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$1.33,https://lightyear.com/en/stock/MTEK:NASDAQ
+5818,Nvni Group Limited,NVNI,NASDAQ,United States,Software & Cloud Services,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$1.18,https://lightyear.com/en/stock/NVNI:NASDAQ
+5819,Lunai Bioworks,LNAI,NASDAQ,United States,Health,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$2.89,https://lightyear.com/en/stock/LNAI:NASDAQ
+5820,Bridgeline Digital,BLIN,NASDAQ,United States,Software & Cloud Services,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$1.20,https://lightyear.com/en/stock/BLIN:NASDAQ
+5821,reAlpha Tech,AIRE,NASDAQ,United States,Software & Cloud Services,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$2.25,https://lightyear.com/en/stock/AIRE:NASDAQ
+5822,Intensity Therapeutics,INTS,NASDAQ,United States,Health,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$4.41,https://lightyear.com/en/stock/INTS:NASDAQ
+5823,CalciMedica Inc.,CALC,NASDAQ,United States,Health,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$0.79,https://lightyear.com/en/stock/CALC:NASDAQ
+5824,Cloudastructure Inc,CSAI,NASDAQ,United States,Business services,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$0.50,https://lightyear.com/en/stock/CSAI:NASDAQ
+5825,Gauzy Ltd.,GAUZ,NASDAQ,United States,Digital Hardware,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$0.59,https://lightyear.com/en/stock/GAUZ:NASDAQ
+5826,TDH Holdings Inc.,PETZ,NASDAQ,United States,Consumer Essentials,USD,$12m,12000000.0,12000000.0,0.00%,6.588,$1.12,https://lightyear.com/en/stock/PETZ:NASDAQ
+5827,Sky Quarry,SKYQ,NASDAQ,United States,Energy,USD,$12m,12000000.0,12000000.0,0.00%,N/A,$2.31,https://lightyear.com/en/stock/SKYQ:NASDAQ
+5828,Cherry SE,C3RY,XETRA,Germany,Digital Hardware,EUR,€11m,11000000.0,11880000.0,0.00%,N/A,€0.46,https://lightyear.com/en/stock/C3RY:XETRA
+5829,PST Group AB,PTR1L,XLIT,Lithuania,Industrials,EUR,€11m,11000000.0,11880000.0,0.00%,N/A,€0.66,https://lightyear.com/en/stock/PTR1L:XLIT
+5830,Pensum Group,PENSUM,BUX,Hungary,Business services,HUF,Ft 4.241bn,4240999999.9999995,11874799.999999998,1.72%,57.708,"Ft 2,020",https://lightyear.com/en/stock/PENSUM:BUX
+5831,Trident Digital Tech ADS,TDTH,NASDAQ,United States,Business services,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$2.70,https://lightyear.com/en/stock/TDTH:NASDAQ
+5832,Fusion Fuel Green Plc,HTOO,NASDAQ,United States,Industrials,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$3.51,https://lightyear.com/en/stock/HTOO:NASDAQ
+5833,BioVie Inc,BIVI,NASDAQ,United States,Health,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$1.44,https://lightyear.com/en/stock/BIVI:NASDAQ
+5834,Amesite Inc.,AMST,NASDAQ,United States,Consumer Discretionary,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$1.76,https://lightyear.com/en/stock/AMST:NASDAQ
+5835,Kairos Pharma Ltd.,KAPA,AMEX,United States,Health,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$0.52,https://lightyear.com/en/stock/KAPA:AMEX
+5836,BioRestorative Therapies,BRTX,NASDAQ,United States,Health,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$0.49,https://lightyear.com/en/stock/BRTX:NASDAQ
+5837,Aprea Therapeutics Inc.,APRE,NASDAQ,United States,Health,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$0.93,https://lightyear.com/en/stock/APRE:NASDAQ
+5838,Aterian,ATER,NASDAQ,United States,Consumer Discretionary,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$1.16,https://lightyear.com/en/stock/ATER:NASDAQ
+5839,Rail Vision,RVSN,NASDAQ,United States,Digital Hardware,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$4.73,https://lightyear.com/en/stock/RVSN:NASDAQ
+5840,"GoHealth, Inc.",GOCO,NASDAQ,United States,Finance,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$0.67,https://lightyear.com/en/stock/GOCO:NASDAQ
+5841,CN Energy Group,CNEY,NASDAQ,United States,Materials,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$1.68,https://lightyear.com/en/stock/CNEY:NASDAQ
+5842,GEN Restaurant Group Inc.,GENK,NASDAQ,United States,Consumer Discretionary,USD,$11m,11000000.0,11000000.0,1.49%,N/A,$2.06,https://lightyear.com/en/stock/GENK:NASDAQ
+5843,Algorhythm Holdings Inc.,RIME,NASDAQ,United States,Consumer Discretionary,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$0.77,https://lightyear.com/en/stock/RIME:NASDAQ
+5844,BTC Digital Ltd.,BTCT,NASDAQ,United States,Software & Cloud Services,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$1.11,https://lightyear.com/en/stock/BTCT:NASDAQ
+5845,Alpha Modus Holdings,AMOD,NASDAQ,United States,Software & Cloud Services,USD,$11m,11000000.0,11000000.0,0.00%,N/A,$0.24,https://lightyear.com/en/stock/AMOD:NASDAQ
+5846,Alpha Compute,ALP,NASDAQ,United States,Health,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$0.46,https://lightyear.com/en/stock/ALP:NASDAQ
+5847,Jupiter Neurosciences Inc.,JUNS,NASDAQ,United States,Health,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$0.26,https://lightyear.com/en/stock/JUNS:NASDAQ
+5848,Mannatech,MTEX,NASDAQ,United States,Consumer Essentials,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$5.46,https://lightyear.com/en/stock/MTEX:NASDAQ
+5849,Perfect Moment Ltd.,PMNT,AMEX,United States,Consumer Discretionary,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$0.23,https://lightyear.com/en/stock/PMNT:AMEX
+5850,Biofrontera Inc.,BFRI,NASDAQ,United States,Health,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$0.85,https://lightyear.com/en/stock/BFRI:NASDAQ
+5851,Samfine Creation Holdings Group Limited,SFHG,NASDAQ,United States,Business services,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$2.50,https://lightyear.com/en/stock/SFHG:NASDAQ
+5852,Inneova Holdings,INEO,NASDAQ,United States,Consumer Discretionary,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$0.61,https://lightyear.com/en/stock/INEO:NASDAQ
+5853,BioCardia Inc.,BCDA,NASDAQ,United States,Health,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$0.92,https://lightyear.com/en/stock/BCDA:NASDAQ
+5854,FGI Industries Ltd.,FGI,NASDAQ,United States,Industrials,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$5.65,https://lightyear.com/en/stock/FGI:NASDAQ
+5855,GeoVax Labs Inc,GOVX,NASDAQ,United States,Health,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$2.40,https://lightyear.com/en/stock/GOVX:NASDAQ
+5856,Avalon Holdings,AWX,AMEX,United States,Business services,USD,$10m,10000000.0,10000000.0,0.00%,17.196,$2.54,https://lightyear.com/en/stock/AWX:AMEX
+5857,ATIF Holdings,AUC,NASDAQ,United States,Business services,USD,$10m,10000000.0,10000000.0,0.00%,N/A,$7.65,https://lightyear.com/en/stock/AUC:NASDAQ

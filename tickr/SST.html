@@ -1,0 +1,61 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Scottish Oriental Smaller Companies Trust Plc (SST:LSE) — financials</title>
+<style>
+ :root{--bg:#0d1117;--card:#161b22;--line:#262d36;--txt:#e6edf3;--muted:#8b949e;
+        --accent:#f0883e;--neg:#f85149;}
+ *{box-sizing:border-box;}
+ body{margin:0;background:var(--bg);color:var(--txt);
+   font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;}
+ a{color:var(--accent);text-decoration:none;}
+ .wrap{max-width:1100px;margin:0 auto;padding:24px;}
+ .back{font-size:13px;color:var(--muted);}
+ header{margin:8px 0 14px;}
+ h1{margin:0;font-size:22px;}
+ .sub{color:var(--muted);font-size:13px;margin-top:4px;}
+ .price{font-size:20px;font-weight:600;margin-top:8px;}
+ .badges{margin:12px 0;display:flex;gap:6px;flex-wrap:wrap;align-items:center;}
+ .badge{font-size:12px;padding:3px 10px;border-radius:20px;font-weight:600;}
+ .badge.mini{font-size:10px;padding:1px 7px;font-weight:500;}
+ .badge.blue{background:#1f3a5f;color:#79c0ff;}
+ .badge.green{background:#1b3a2b;color:#56d364;}
+ .badge.teal{background:#10363a;color:#56d4dd;}
+ .badge.red{background:#3d1d1d;color:#ff7b72;}
+ .chips{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0;}
+ .chip{background:var(--card);border:1px solid var(--line);border-radius:8px;
+   padding:6px 12px;font-size:12px;}
+ .chip span{color:var(--muted);margin-right:6px;}
+ .tabs{display:flex;gap:4px;border-bottom:1px solid var(--line);}
+ .tab{background:none;border:none;color:var(--muted);padding:10px 14px;
+   font-size:14px;cursor:pointer;border-bottom:2px solid transparent;}
+ .tab.active{color:var(--accent);border-bottom-color:var(--accent);}
+ .panel{display:none;overflow-x:auto;}
+ .panel.active{display:block;}
+ table.fin{width:100%;border-collapse:collapse;font-variant-numeric:tabular-nums;}
+ table.fin th.lbl{width:42%;}
+ table.fin thead th{text-align:right;padding:10px 8px;font-size:12px;color:var(--muted);
+   border-bottom:1px solid var(--line);}
+ table.fin tbody th{text-align:left;font-weight:400;padding:5px 8px;}
+ table.fin td{text-align:right;padding:5px 8px;border-bottom:1px solid #1c2129;}
+ table.fin tr.section td{text-align:left;font-weight:700;font-size:11px;
+   letter-spacing:.05em;color:var(--muted);padding-top:16px;border:none;}
+ .neg{color:var(--neg);} .muted{color:var(--muted);}
+ footer{margin-top:24px;font-size:13px;}
+</style></head><body><div class="wrap">
+ <a class="back" href="/screener">&larr; All tickers</a>
+ <header><h1>Scottish Oriental Smaller Companies Trust Plc <span class="muted">SST:LSE</span></h1>
+   <div class="sub">United States &middot; Software &amp; Cloud Services &middot; 10M to 25M &middot; Lightyear: SST &middot; Mkt cap $23.0M</div>
+   <div class="price">GBX 279.00</div></header>
+ <div class="badges"><span class="muted">no flags</span></div>
+ <div class="chips"></div>
+ <div class="tabs"><button class="tab active" data-t="income">Income Statement</button><button class="tab" data-t="balance">Balance Sheet</button><button class="tab" data-t="cashflow">Cash Flow Statement</button></div>
+ <div class="panel active" id="income"><table class="fin"><thead><tr><th class="lbl"></th><th>--</th></tr></thead><tbody><tr><th>Net profit margin</th><td><span class="muted">&mdash;</span></td></tr><tr><th>Operating margin</th><td><span class="muted">&mdash;</span></td></tr></tbody></table></div><div class="panel" id="balance"><table class="fin"><thead><tr><th class="lbl"></th><th>--</th></tr></thead><tbody><tr><th>Net profit margin</th><td><span class="muted">&mdash;</span></td></tr><tr><th>Operating margin</th><td><span class="muted">&mdash;</span></td></tr></tbody></table></div><div class="panel" id="cashflow"><table class="fin"><thead><tr><th class="lbl"></th><th>--</th></tr></thead><tbody><tr><th>Net profit margin</th><td><span class="muted">&mdash;</span></td></tr><tr><th>Operating margin</th><td><span class="muted">&mdash;</span></td></tr></tbody></table></div>
+ <footer><a href="https://markets.ft.com/data/equities/tearsheet/financials?s=SST:LSE" target="_blank" rel="noopener">Source: FT tearsheet &rarr;</a></footer>
+</div>
+<script>
+ document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{
+   const t=b.dataset.t;
+   document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('active',x===b));
+   document.querySelectorAll('.panel').forEach(p=>p.classList.toggle('active',p.id===t));
+ });
+</script></body></html>

@@ -1,0 +1,20 @@
+{
+  "name": "Inuvo Inc",
+  "ly_ticker": "INUV",
+  "ft_symbol": "INUV:ASE",
+  "exchange": "AMEX",
+  "country": "United States",
+  "sector": "Software & Cloud Services",
+  "bucket": "10M_to_25M",
+  "ly_market_cap_usd": 24000000.0,
+  "price": 1.67,
+  "currency": "USD",
+  "balance_sheet_summary": {},
+  "metrics": {},
+  "statements": {
+    "income": null,
+    "balance": null,
+    "cashflow": null
+  },
+  "ft_url": "https://markets.ft.com/data/equities/tearsheet/financials?s=INUV:ASE"
+}
