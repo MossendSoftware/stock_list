@@ -252,6 +252,59 @@ def cmd_ticker(args):
     console.print(metrics)
 
 
+# ── plots (ASCII charts) ────────────────────────────────────────────────────
+def _series_years(*series):
+    common = set.intersection(*(set(s) for s in series if s)) if series else set()
+    return sorted((int(y) for y in common))
+
+
+def _indexed(series, years):
+    base = series[str(years[0])]
+    return [series[str(y)] / base * 100 for y in years]
+
+
+def cmd_plot(args):
+    import plotext as plt
+
+    if args.kind == "country":
+        d = _load(COUNTRY_JSON)
+        code = args.code.upper()
+        c = next((x for x in d["countries"] if x["code"] == code), None)
+        if not c:
+            codes = ", ".join(x["code"] for x in d["countries"])
+            console.print(f"[red]No country '{code}'.[/red] Available: {codes}")
+            sys.exit(1)
+        cap, money = c.get("market_cap_usd"), c.get("money")
+        years = _series_years(cap, money)
+        if len(years) < 2:
+            console.print("[red]Not enough overlapping data to plot.[/red]")
+            sys.exit(1)
+        plt.clear_figure()
+        plt.plot(years, _indexed(cap, years), label="Market cap", marker="braille")
+        plt.plot(years, _indexed(money, years), label="Money supply", marker="braille")
+        plt.title(f"{c['name']} — market cap vs money supply (indexed to 100 at {years[0]})")
+        plt.xlabel("year")
+        plt.theme("dark")
+        plt.show()
+        return
+
+    if args.kind == "indices":
+        d = _load(INDEX_JSON)
+        rows = [r for r in d["rows"] if (r.get(args.metric) or {}).get("multiple") is not None]
+        rows.sort(key=lambda r: r[args.metric]["multiple"])
+        labels = [r["name"] for r in rows]
+        vals = [r[args.metric]["multiple"] for r in rows]
+        metric_lbl = {"m2": "real (after money growth)",
+                      "cpi": "real (CPI)", "nominal": "nominal"}[args.metric]
+        plt.clear_figure()
+        plt.bar(labels, vals, orientation="horizontal", width=0.4)
+        plt.title(f"Index return multiple — {metric_lbl}  (since {d['start_year']})")
+        plt.xlabel("× multiple")
+        plt.theme("dark")
+        plt.show()
+        return
+
+
 def main():
     p = argparse.ArgumentParser(description="Terminal views over the stock-list data.")
     sub = p.add_subparsers(dest="cmd", required=True)
@@ -269,9 +322,17 @@ def main():
     pt = sub.add_parser("ticker", help="One ticker's signals")
     pt.add_argument("symbol", help="FT or Lightyear symbol")
 
+    pp = sub.add_parser("plot", help="ASCII charts")
+    pp_sub = pp.add_subparsers(dest="kind", required=True)
+    ppc = pp_sub.add_parser("country", help="Market cap vs money supply over time")
+    ppc.add_argument("code", help="Country code, e.g. US, JP")
+    ppi = pp_sub.add_parser("indices", help="Index return multiples (bar chart)")
+    ppi.add_argument("--metric", choices=("m2", "cpi", "nominal"), default="m2",
+                     help="Which multiple to chart (default: m2 = real after money growth)")
+
     args = p.parse_args()
     {"indices": cmd_indices, "countries": cmd_countries,
-     "screener": cmd_screener, "ticker": cmd_ticker}[args.cmd](args)
+     "screener": cmd_screener, "ticker": cmd_ticker, "plot": cmd_plot}[args.cmd](args)
 
 
 if __name__ == "__main__":

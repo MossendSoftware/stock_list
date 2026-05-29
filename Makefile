@@ -80,6 +80,14 @@ screener-table: ## Print the screener table (FILTER=net-net SORT=cap LIMIT=20)
 ticker: ## Print one ticker's signals (SYM=VYNE)
 	$(RUN) cli.py ticker $(SYM)
 
+.PHONY: plot-country
+plot-country: ## ASCII chart: market cap vs money supply (CODE=US)
+	$(RUN) cli.py plot country $(CODE)
+
+.PHONY: plot-indices
+plot-indices: ## ASCII bar chart of index return multiples (METRIC=m2|cpi|nominal)
+	$(RUN) cli.py plot indices $(if $(METRIC),--metric $(METRIC))
+
 # ── housekeeping ───────────────────────────────────────────────────────────
 .PHONY: clean
 clean: ## Remove generated HTML/PDF/chart output (keeps scraped JSON/CSV)

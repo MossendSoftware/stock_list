@@ -55,6 +55,14 @@ make ticker SYM=VYNE                      # one ticker's signals
 `cap pb de cr loss`. Or call directly:
 `uv run cli.py screener --filter net-net --sort cap --limit 20`.
 
+### ASCII charts
+
+```bash
+make plot-country CODE=US                 # market cap vs money supply, indexed
+make plot-indices                         # index return multiples (bar)
+make plot-indices METRIC=nominal          # METRIC=m2 (default) | cpi | nominal
+```
+
 ## Refresh the data
 
 Each stage is a make target; run individually or chain with `make refresh`
