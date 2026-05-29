@@ -274,15 +274,28 @@ def cmd_plot(args):
             codes = ", ".join(x["code"] for x in d["countries"])
             console.print(f"[red]No country '{code}'.[/red] Available: {codes}")
             sys.exit(1)
-        cap, money = c.get("market_cap_usd"), c.get("money")
-        years = _series_years(cap, money)
-        if len(years) < 2:
-            console.print("[red]Not enough overlapping data to plot.[/red]")
-            sys.exit(1)
         plt.clear_figure()
-        plt.plot(years, _indexed(cap, years), label="Market cap", marker="braille")
-        plt.plot(years, _indexed(money, years), label="Money supply", marker="braille")
-        plt.title(f"{c['name']} — market cap vs money supply (indexed to 100 at {years[0]})")
+        if args.metric == "cap-gdp":
+            cap, gdp = c.get("market_cap_usd"), c.get("gdp_usd")
+            years = _series_years(cap, gdp)
+            if len(years) < 2:
+                console.print("[red]Not enough overlapping data to plot.[/red]")
+                sys.exit(1)
+            plt.plot(years, [cap[str(y)] / 1e12 for y in years],
+                     label="Market cap", marker="braille")
+            plt.plot(years, [gdp[str(y)] / 1e12 for y in years],
+                     label="GDP", marker="braille")
+            plt.title(f"{c['name']} — market cap vs GDP")
+            plt.ylabel("$ trillion")
+        else:
+            cap, money = c.get("market_cap_usd"), c.get("money")
+            years = _series_years(cap, money)
+            if len(years) < 2:
+                console.print("[red]Not enough overlapping data to plot.[/red]")
+                sys.exit(1)
+            plt.plot(years, _indexed(cap, years), label="Market cap", marker="braille")
+            plt.plot(years, _indexed(money, years), label="Money supply", marker="braille")
+            plt.title(f"{c['name']} — market cap vs money supply (indexed to 100 at {years[0]})")
         plt.xlabel("year")
         plt.theme("dark")
         plt.show()
@@ -324,8 +337,10 @@ def main():
 
     pp = sub.add_parser("plot", help="ASCII charts")
     pp_sub = pp.add_subparsers(dest="kind", required=True)
-    ppc = pp_sub.add_parser("country", help="Market cap vs money supply over time")
+    ppc = pp_sub.add_parser("country", help="Market cap vs money supply / GDP over time")
     ppc.add_argument("code", help="Country code, e.g. US, JP")
+    ppc.add_argument("--metric", choices=("cap-money", "cap-gdp"), default="cap-money",
+                     help="cap-money (indexed, default) or cap-gdp ($T)")
     ppi = pp_sub.add_parser("indices", help="Index return multiples (bar chart)")
     ppi.add_argument("--metric", choices=("m2", "cpi", "nominal"), default="m2",
                      help="Which multiple to chart (default: m2 = real after money growth)")

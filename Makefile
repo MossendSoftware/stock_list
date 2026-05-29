@@ -81,8 +81,8 @@ ticker: ## Print one ticker's signals (SYM=VYNE)
 	$(RUN) cli.py ticker $(SYM)
 
 .PHONY: plot-country
-plot-country: ## ASCII chart: market cap vs money supply (CODE=US)
-	$(RUN) cli.py plot country $(CODE)
+plot-country: ## ASCII chart per country (CODE=US METRIC=cap-money|cap-gdp)
+	$(RUN) cli.py plot country $(CODE) $(if $(METRIC),--metric $(METRIC))
 
 .PHONY: plot-indices
 plot-indices: ## ASCII bar chart of index return multiples (METRIC=m2|cpi|nominal)

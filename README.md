@@ -59,6 +59,7 @@ make ticker SYM=VYNE                      # one ticker's signals
 
 ```bash
 make plot-country CODE=US                 # market cap vs money supply, indexed
+make plot-country CODE=US METRIC=cap-gdp  # market cap vs GDP, in $ trillion
 make plot-indices                         # index return multiples (bar)
 make plot-indices METRIC=nominal          # METRIC=m2 (default) | cpi | nominal
 ```
