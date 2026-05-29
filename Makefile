@@ -1,5 +1,6 @@
 # stock-list — team toolkit
-# Data pipeline (scrape -> JSON -> HTML), a local server, and terminal views.
+# Data pipeline (scrape -> data/ JSON -> output/ HTML), a local server, and
+# terminal views. Layout: src/ code, data/ inputs, output/ generated (gitignored).
 # Scrape targets need a .env with FRED_API_KEY and FT_COOKIE. See README.
 
 PORT ?= 8000
@@ -14,46 +15,46 @@ install: ## Sync dependencies into the uv venv
 
 # ── data refresh (network; scrapes need .env secrets) ──────────────────────
 .PHONY: scrape
-scrape: ## Scrape the full Lightyear stock universe -> stocks.csv
-	$(RUN) scrape.py
+scrape: ## Scrape the full Lightyear stock universe -> data/stocks.csv
+	$(RUN) src/scrape.py
 
 .PHONY: buckets
 buckets: ## Split stocks.csv / stocks_simple.csv into market-cap buckets
-	$(RUN) buckets.py stocks.csv buckets
-	$(RUN) buckets.py stocks_simple.csv buckets_simple
+	$(RUN) src/buckets.py data/stocks.csv data/buckets
+	$(RUN) src/buckets.py data/stocks_simple.csv data/buckets_simple
 
 .PHONY: money
-money: ## Fetch broad-money series from FRED -> money_supply.json (needs FRED_API_KEY)
-	$(RUN) fetch_money.py
+money: ## Fetch broad-money series from FRED -> data/money_supply.json (needs FRED_API_KEY)
+	$(RUN) src/fetch_money.py
 
 .PHONY: index-data
-index-data: ## Compute index real returns -> index_report.json
-	$(RUN) index_report.py
+index-data: ## Compute index real returns -> data/index_report.json
+	$(RUN) src/index_report.py
 
 .PHONY: country-data
-country-data: ## Fetch country macro -> country_report.json (needs FRED_API_KEY)
-	$(RUN) country_data.py
+country-data: ## Fetch country macro -> data/country_report.json (needs FRED_API_KEY)
+	$(RUN) src/country_data.py
 
 .PHONY: screener-scrape
 screener-scrape: ## Capture FT financials for bucketed micro-caps (resumable; needs FT_COOKIE)
-	$(RUN) tickr_scrape.py
+	$(RUN) src/tickr_scrape.py
 
 .PHONY: refresh
 refresh: scrape buckets money index-data country-data screener-scrape build ## Full refresh: re-scrape everything then rebuild HTML
 
-# ── build (offline; render JSON -> HTML/PDF) ───────────────────────────────
+# ── build (offline; render data/ JSON -> output/ HTML/PDF) ─────────────────
 .PHONY: report
-report: ## Render the index-returns report -> results/index.html + PDF
-	$(RUN) report_html.py
-	$(RUN) report_pdf.py
+report: ## Render the index-returns report -> output/results/index.html + PDF
+	$(RUN) src/report_html.py
+	$(RUN) src/report_pdf.py
 
 .PHONY: country-report
-country-report: ## Render country pages + charts -> country/*.html, country/img/*.png
-	$(RUN) country_report.py
+country-report: ## Render country pages + charts -> output/country/
+	$(RUN) src/country_report.py
 
 .PHONY: screener-render
-screener-render: ## Render the micro-cap screener -> tickr/*.html
-	$(RUN) tickr_render.py
+screener-render: ## Render the micro-cap screener -> output/tickr/
+	$(RUN) src/tickr_render.py
 
 .PHONY: build
 build: report country-report screener-render ## Rebuild all HTML from existing JSON (no network)
@@ -61,38 +62,41 @@ build: report country-report screener-render ## Rebuild all HTML from existing J
 # ── serve ──────────────────────────────────────────────────────────────────
 .PHONY: serve
 serve: ## Serve the dashboards locally (PORT=8000 by default)
-	$(RUN) serve.py $(PORT)
+	$(RUN) src/serve.py $(PORT)
 
 # ── terminal views (read existing data; no network) ────────────────────────
 .PHONY: indices
 indices: ## Print the index real-returns table
-	$(RUN) cli.py indices
+	$(RUN) src/cli.py indices
 
 .PHONY: countries
 countries: ## Print the country macro overview (CODE=US for one country)
-	$(RUN) cli.py countries $(CODE)
+	$(RUN) src/cli.py countries $(CODE)
 
 .PHONY: screener-table
 screener-table: ## Print the screener table (FILTER=net-net SORT=cap LIMIT=20)
-	$(RUN) cli.py screener $(if $(FILTER),--filter $(FILTER)) $(if $(SORT),--sort $(SORT)) $(if $(LIMIT),--limit $(LIMIT))
+	$(RUN) src/cli.py screener $(if $(FILTER),--filter $(FILTER)) $(if $(SORT),--sort $(SORT)) $(if $(LIMIT),--limit $(LIMIT))
 
 .PHONY: ticker
 ticker: ## Print one ticker's signals (SYM=VYNE)
-	$(RUN) cli.py ticker $(SYM)
+	$(RUN) src/cli.py ticker $(SYM)
 
 .PHONY: plot-country
 plot-country: ## ASCII chart per country (CODE=US METRIC=cap-money|cap-gdp)
-	$(RUN) cli.py plot country $(CODE) $(if $(METRIC),--metric $(METRIC))
+	$(RUN) src/cli.py plot country $(CODE) $(if $(METRIC),--metric $(METRIC))
 
 .PHONY: plot-indices
 plot-indices: ## ASCII bar chart of index return multiples (METRIC=m2|cpi|nominal)
-	$(RUN) cli.py plot indices $(if $(METRIC),--metric $(METRIC))
+	$(RUN) src/cli.py plot indices $(if $(METRIC),--metric $(METRIC))
+
+.PHONY: real-return
+real-return: ## Real return of an equity between two dates (SYM=COST FROM=2015 TO=2026 [REGION=US])
+	$(RUN) src/cli.py real-return $(SYM) $(FROM) $(TO) $(if $(REGION),--region $(REGION))
 
 # ── housekeeping ───────────────────────────────────────────────────────────
 .PHONY: clean
-clean: ## Remove generated HTML/PDF/chart output (keeps scraped JSON/CSV)
-	rm -rf results/*.html country/*.html country/report/*.html country/img/*.png \
-	       tickr/*.html index_report.pdf
+clean: ## Remove generated output/ (keeps committed data/)
+	rm -rf output
 
 .PHONY: help
 help: ## Show this help
