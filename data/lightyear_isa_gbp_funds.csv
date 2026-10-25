@@ -1,0 +1,316 @@
+name,ticker,isin,exchange,type,share_class,category,fund_size,dividend_yield,share_price,lse_currency,url
+Xtrackers Nikkei 225,XDJP,LU0839027447,LSE,etf,Dist,225 Japanese stocks,£501B,1.07%,£31.18,GBX,https://lightyear.com/etf/XDJP:LSE
+iShares Core S&P 500,CSP1,IE00B5BMR087,LSE,etf,Acc,S&P 500 stocks,£156B,0.00%,£620.28,GBX,https://lightyear.com/etf/CSP1:LSE
+iShares Core MSCI World,SWDA,IE00B4L5Y983,LSE,etf,Acc,Developed markets stocks,£149B,0.00%,£109.19,GBX,https://lightyear.com/etf/SWDA:LSE
+Invesco S&P 500,SPXP,IE00B3YCGJ38,LSE,etf,Acc,S&P 500 US stocks,£57B,0.00%,£11.55,GBX,https://lightyear.com/etf/SPXP:LSE
+Vanguard FTSE All-World,VWRP,IE00BK5BQT80,LSE,etf,Acc,Global stocks,£53B,0.00%,£142.32,GBP,https://lightyear.com/etf/VWRP:LSE
+Vanguard S&P 500,VUSA,IE00B3XXRP09,LSE,etf,Dist,S&P 500 US stocks,£52B,0.86%,£108.92,GBP,https://lightyear.com/etf/VUSA:LSE
+BlackRock ICS Sterling Liquidity Fund (Premier),ICSSISDP,IE00B3L10356,ISE,mmf,Dist,GBP Money Market Fund,£49B,0.00%,£1.00,,https://lightyear.com/mmf/ICSSISDP:ISE
+iShares Core MSCI Emerging Markets IMI,EMIM,IE00BKM4GZ66,LSE,etf,Acc,Emerging markets stocks,£45B,0.00%,£38.19,GBX,https://lightyear.com/etf/EMIM:LSE
+iShares MSCI ACWI,SSAC,IE00B6R52259,LSE,etf,Acc,Global stocks,£36B,0.00%,£91.20,GBX,https://lightyear.com/etf/SSAC:LSE
+Vanguard S&P 500,VUAG,IE00BFMXXD54,LSE,etf,Acc,S&P 500 US stocks,£34B,0.00%,£111.24,GBP,https://lightyear.com/etf/VUAG:LSE
+iShares Nasdaq 100,CNX1,IE00B53SZB19,LSE,etf,Acc,US technology stocks,£28B,0.00%,£1260.60,GBX,https://lightyear.com/etf/CNX1:LSE
+Vanguard FTSE All-World,VWRL,IE00B3RBWM25,LSE,etf,Dist,Global stocks,£26B,1.32%,£137.49,GBP,https://lightyear.com/etf/VWRL:LSE
+iShares Core S&P 500,IUSA,IE0031442068,LSE,etf,Dist,S&P 500 US stocks,£23B,0.85%,£57.24,GBX,https://lightyear.com/etf/IUSA:LSE
+Amundi STOXX Europe 600,MEUD,LU0908500753,LSE,etf,Acc,Top 600 European stocks,£21B,0.00%,£264.43,GBX,https://lightyear.com/etf/MEUD:LSE
+SPDR MSCI World,SWLD,IE00BFY0GT14,LSE,etf,Acc,Global stocks,£20B,0.00%,£39.93,GBP,https://lightyear.com/etf/SWLD:LSE
+iShares S&P 500 Information Technology Sector,IITU,IE00B3WJKG14,LSE,etf,Acc,US technology stocks,£20B,0.00%,£38.39,GBX,https://lightyear.com/etf/IITU:LSE
+Invesco EQQQ Nasdaq 100,EQQQ,IE0032077012,LSE,etf,Dist,US technology stocks,£19B,0.23%,£536.25,GBX,https://lightyear.com/etf/EQQQ:LSE
+Amundi Core MSCI World,MWRL,IE000BI8OT95,LSE,etf,Acc,Developed Markets stocks,£19B,0.00%,£137.14,GBP,https://lightyear.com/etf/MWRL:LSE
+HSBC MSCI World,HMWO,IE00B4X9L533,LSE,etf,Dist,Global stocks,£19B,1.16%,£36.91,GBX,https://lightyear.com/etf/HMWO:LSE
+iShares MSCI USA CTB Enhanced ESG,EEDG,IE00BHZPJ890,LSE,etf,Dist,US ESG stocks,£19B,0.82%,£9.85,GBP,https://lightyear.com/etf/EEDG:LSE
+iShares MSCI USA Screened,GPSA,IE00BFNM3G45,LSE,etf,Acc,US screened stocks,£18B,0.00%,£11.95,GBP,https://lightyear.com/etf/GPSA:LSE
+SPDR S&P 500,SPXL,IE000XZSV718,LSE,etf,Acc,S&P 500 US stocks,£18B,0.00%,£14.24,GBP,https://lightyear.com/etf/SPXL:LSE
+SPDR MSCI All Country World,ACWI,IE00B44Z5B48,LSE,etf,Acc,Global developed and emerging country stocks,£17B,0.00%,£242.39,GBP,https://lightyear.com/etf/ACWI:LSE
+iShares Core FTSE 100,ISF,IE0005042456,LSE,etf,Dist,Top 100 UK stocks,£17B,3.03%,£10.44,GBX,https://lightyear.com/etf/ISF:LSE
+Xtrackers S&P 500 Equal Weight,XDWE,IE00BLNMYC90,LSE,etf,Acc,Equal-weight US stocks,£16B,0.00%,£90.02,GBX,https://lightyear.com/etf/XDWE:LSE
+JPMorgan US Research Enhanced Index Equity Active,JURE,IE00BF4G7076,LSE,etf,Acc,Active US stocks,£16B,0.00%,£57.06,GBX,https://lightyear.com/etf/JURE:LSE
+Xtrackers MSCI USA,XDUS,IE00BJ0KDR00,LSE,etf,Acc,US large- and mid-cap stocks,£15B,0.00%,£170.03,GBX,https://lightyear.com/etf/XDUS:LSE
+UBS Core MSCI World,WRDA,IE00BD4TXV59,LSE,etf,Acc,Developed Markets stocks,£12B,0.00%,£34.02,GBX,https://lightyear.com/etf/WRDA:LSE
+iShares Core MSCI Europe,IMEU,IE00B1YZSC51,LSE,etf,Dist,European stocks,£11B,2.44%,£33.42,GBX,https://lightyear.com/etf/IMEU:LSE
+Vanguard FTSE All-World High Dividend Yield,VHYL,IE00B8GKDB10,LSE,etf,Dist,Global dividend stocks,£11B,2.52%,£68.77,GBP,https://lightyear.com/etf/VHYL:LSE
+iShares MSCI EM,SEMA,IE00B4L5YC18,LSE,etf,Acc,Emerging markets stocks,£10B,0.00%,£44.70,GBX,https://lightyear.com/etf/SEMA:LSE
+iShares MSCI Emerging Markets,IEEM,IE00B0M63177,LSE,etf,Dist,Emerging markets stocks,£10B,1.64%,£46.09,GBX,https://lightyear.com/etf/IEEM:LSE
+HSBC Hang Seng Tech,HSTC,IE00BMWXKN31,LSE,etf,Acc,Hong Kong tech stocks,£10.0B,0.00%,£3.96,GBP,https://lightyear.com/etf/HSTC:LSE
+Xtrackers MSCI Europe,XMEU,LU0274209237,LSE,etf,Acc,European stocks,£9.9B,0.00%,£99.66,GBX,https://lightyear.com/etf/XMEU:LSE
+Xtrackers S&P 500 Swap,XSPX,LU0490618542,LSE,etf,Acc,S&P 500 stocks,£9.7B,0.00%,£116.28,GBX,https://lightyear.com/etf/XSPX:LSE
+iShares MSCI World,IWRD,IE00B0M62Q58,LSE,etf,Dist,Developed markets stocks,£9.6B,0.86%,£78.22,GBX,https://lightyear.com/etf/IWRD:LSE
+iShares MSCI World Small Cap,WLDS,IE00BF4RFH31,LSE,etf,Acc,Developed markets small cap stocks,£9.0B,0.00%,£7.57,GBP,https://lightyear.com/etf/WLDS:LSE
+VanEck Morningstar Developed Markets Dividend Leaders,TDGB,NL0011683594,LSE,etf,Dist,Developed markets high dividend stocks,£9.0B,3.06%,£46.32,GBP,https://lightyear.com/etf/TDGB:LSE
+Xtrackers Artificial Intelligence And Big Data,XAIX,IE00BGV5VN51,LSE,etf,Acc,AI and Big Data stocks,£8.9B,0.00%,£177.29,GBP,https://lightyear.com/etf/XAIX:LSE
+iShares Core Euro Corporate Bond,IEBC,IE00B3F81R35,LSE,etf,Dist,Eurozone corporate bonds,£8.7B,3.43%,£97.31,GBP,https://lightyear.com/etf/IEBC:LSE
+iShares MSCI EM Asia,CEA1,IE00B5L8K969,LSE,etf,Acc,Emerging Asian markets stocks,£8.6B,0.00%,£204.86,GBX,https://lightyear.com/etf/CEA1:LSE
+Amundi Index MSCI Europe,CE2D,LU1737652310,LSE,etf,Dist,European Stocks,£8.5B,0.00%,£69.08,GBX,https://lightyear.com/etf/CE2D:LSE
+iShares Core MSCI Japan IMI,SJPA,IE00B4L5YX21,LSE,etf,Acc,Japanese stocks,£8.4B,0.00%,£61.12,GBX,https://lightyear.com/etf/SJPA:LSE
+Amundi S&P 500,500G,LU1681049018,LSE,etf,Acc,US Largest Stocks,£8.1B,0.00%,£115.00,GBX,https://lightyear.com/etf/500G:LSE
+VanEck Semiconductor,SMGB,IE00BMC38736,LSE,etf,Acc,Semiconductors,£8.1B,0.00%,£74.17,GBP,https://lightyear.com/etf/SMGB:LSE
+iShares Core EURO STOXX 50,CS51,IE00B53L3W79,LSE,etf,Acc,Europes largest stocks,£7.9B,0.00%,£200.03,GBX,https://lightyear.com/etf/CS51:LSE
+Xtrackers MSCI World Ex USA,XMWX,IE0006WW1TQ4,LSE,etf,Acc,Developed markets stocks ex USA,£7.8B,0.00%,£33.74,GBP,https://lightyear.com/etf/XMWX:LSE
+Xtrackers DAX,XDAX,LU0274211480,LSE,etf,Acc,40 largest German stocks,£7.3B,0.00%,£198.87,GBX,https://lightyear.com/etf/XDAX:LSE
+Vaneck Defense,DFNG,IE000YYE6WK5,LSE,etf,Acc,Defence stocks,£7.2B,0.00%,£42.80,GBP,https://lightyear.com/etf/DFNG:LSE
+iShares Edge MSCI World Value Factor,IWFV,IE00BP3QZB59,LSE,etf,Acc,Developed markets value stocks,£7.2B,0.00%,£58.59,GBX,https://lightyear.com/etf/IWFV:LSE
+Vanguard FTSE Developed World,VHVG,IE00BK5BQV03,LSE,etf,Acc,Developed world stocks,£6.6B,0.00%,£113.26,GBP,https://lightyear.com/etf/VHVG:LSE
+iShares MSCI EM IMI Screened,SEGM,IE00BFNM3P36,LSE,etf,Acc,Emerging markets stocks,£6.6B,0.00%,£7.37,GBP,https://lightyear.com/etf/SEGM:LSE
+Amundi Euro STOXX Banks,BNKE,LU1829219390,LSE,etf,Acc,Eurozone bank stocks,£6.5B,0.00%,£297.00,GBP,https://lightyear.com/etf/BNKE:LSE
+Xtrackers MSCI World Information Technology,XXTW,IE00BM67HT60,LSE,etf,Acc,Developed Markets technology stocks,£6.5B,0.00%,£108.02,GBP,https://lightyear.com/etf/XXTW:LSE
+SPDR S&P 400 US Mid Cap,SPX4,IE00B4YBJ215,LSE,etf,Acc,US mid cap stocks,£6.4B,0.00%,£84.71,GBP,https://lightyear.com/etf/SPX4:LSE
+iShares Core MSCI EMU,CEU1,IE00B53QG562,LSE,etf,Acc,EMU stocks,£6.3B,0.00%,£199.19,GBX,https://lightyear.com/etf/CEU1:LSE
+iShares Edge MSCI World Quality Factor,IWFQ,IE00BP3QZ601,LSE,etf,Acc,Developed markets quality stocks,£6.2B,0.00%,£67.44,GBX,https://lightyear.com/etf/IWFQ:LSE
+iShares Edge MSCI World Momentum Factor,IWFM,IE00BP3QZ825,LSE,etf,Acc,Developed Markets momentum stocks,£6.0B,0.00%,£83.10,GBX,https://lightyear.com/etf/IWFM:LSE
+iShares MSCI Global Semiconductors,SEMI,IE000I8KRLL9,LSE,etf,Acc,Global semiconductor stocks,£5.9B,0.00%,£13.69,GBP,https://lightyear.com/etf/SEMI:LSE
+iShares Core EURO STOXX 50,EUE,IE0008471009,LSE,etf,Dist,Top 50 European stocks,£5.8B,2.35%,£52.26,GBX,https://lightyear.com/etf/EUE:LSE
+iShares MSCI EM ex-China,EXCS,IE00BMG6Z448,LSE,etf,Acc,Emerging markets stocks ex-China,£5.7B,0.00%,£6.57,GBP,https://lightyear.com/etf/EXCS:LSE
+iShares EUR High Yield Corp Bond,SHYG,IE00B66F4759,LSE,etf,Dist,High yield Euro corporate bonds,£5.4B,5.35%,£73.52,GBP,https://lightyear.com/etf/SHYG:LSE
+iShares Core Euro Government Bond,SEGA,IE00B4WXJJ64,LSE,etf,Dist,Eurozone government bonds,£5.4B,2.71%,£87.62,GBP,https://lightyear.com/etf/SEGA:LSE
+SPDR Russell 2000 US Small Cap,R2SC,IE00BJ38QD84,LSE,etf,Acc,US small cap stocks,£5.3B,0.00%,£60.41,GBP,https://lightyear.com/etf/R2SC:LSE
+iShares MSCI India,IIND,IE00BZCQB185,LSE,etf,Acc,Indian stocks,£5.2B,0.00%,£6.20,GBP,https://lightyear.com/etf/IIND:LSE
+iShares S&P 500 Equal Weight,EWSP,IE000MLMNYS0,LSE,etf,Acc,Equal weight US stocks,£5.1B,0.00%,£5.88,GBP,https://lightyear.com/etf/EWSP:LSE
+iShares MSCI Europe ESG Enhanced,EEUD,IE00BHZPJ676,LSE,etf,Dist,European ESG stocks,£5.0B,2.41%,£6.89,GBP,https://lightyear.com/etf/EEUD:LSE
+iShares Automation & Robotics,RBTX,IE00BYZK4552,LSE,etf,Acc,Global automation and robotics stocks,£4.9B,0.00%,£15.82,GBX,https://lightyear.com/etf/RBTX:LSE
+iShares MSCI Europe Screened,SAEU,IE00BFNM3D14,LSE,etf,Acc,European screened stocks,£4.9B,0.00%,£9.11,GBP,https://lightyear.com/etf/SAEU:LSE
+iShares Gold Producers,SPGP,IE00B6R52036,LSE,etf,Acc,Gold mining stocks,£4.8B,0.00%,£29.21,GBX,https://lightyear.com/etf/SPGP:LSE
+Invesco FTSE All-World,FWRG,IE000716YHJ7,LSE,etf,Acc,Global stocks,£4.8B,0.00%,£7.02,GBX,https://lightyear.com/etf/FWRG:LSE
+Vanguard FTSE Developed Europe,VEUR,IE00B945VV12,LSE,etf,Dist,European stocks,£4.8B,2.66%,£41.45,GBP,https://lightyear.com/etf/VEUR:LSE
+Vanguard FTSE 100,VUKE,IE00B810Q511,LSE,etf,Dist,Top 100 UK stocks,£4.7B,3.09%,£46.46,GBP,https://lightyear.com/etf/VUKE:LSE
+Vanguard FTSE Developed World,VEVE,IE00BKX55T58,LSE,etf,Dist,Developed markets stocks,£4.7B,1.26%,£107.10,GBP,https://lightyear.com/etf/VEVE:LSE
+VanEck Gold Miners,GDGB,IE00BQQP9F84,LSE,etf,Acc,Global gold miners,£4.5B,0.00%,£71.19,GBP,https://lightyear.com/etf/GDGB:LSE
+iShares J.P. Morgan USD Emerging Markets Bond,SEMB,IE00B2NPKV68,LSE,etf,Dist,Emerging markets government bonds,£4.4B,6.04%,£65.59,GBX,https://lightyear.com/etf/SEMB:LSE
+Wisdomtree Europe Defence,WDEP,IE0002Y8CX98,LSE,etf,Acc,European defence stocks,£4.2B,0.00%,£25.93,GBX,https://lightyear.com/etf/WDEP:LSE
+iShares Core MSCI Pacific ex Japan,CPJ1,IE00B52MJY50,LSE,etf,Acc,"HK, SG, AU, NZ stocks",£4.2B,0.00%,£181.23,GBX,https://lightyear.com/etf/CPJ1:LSE
+Xtrackers S&P 500,XDPP,IE000Z9SJA06,LSE,etf,Acc,500 largest US stocks,£4.2B,0.00%,£11.16,GBP,https://lightyear.com/etf/XDPP:LSE
+Xtrackers MSCI World Health Care,XWHS,IE00BM67HK77,LSE,etf,Acc,Developed Markets health care stocks,£4.1B,0.00%,£48.96,GBP,https://lightyear.com/etf/XWHS:LSE
+Vanguard EUR Eurozone Government Bond,VETA,IE00BH04GL39,LSE,etf,Acc,Eurozone government bonds,£4.0B,0.00%,£19.48,GBP,https://lightyear.com/etf/VETA:LSE
+L&G Cyber Security,ISPY,IE00BYPLS672,LSE,etf,Acc,Global cyber security stocks,£3.9B,0.00%,£35.52,GBX,https://lightyear.com/etf/ISPY:LSE
+SPDR S&P US Dividend Aristocrats,USDV,IE00B6YX5D40,LSE,etf,Dist,US dividend stocks,£3.8B,2.02%,£64.45,GBP,https://lightyear.com/etf/USDV:LSE
+iShares USD Treasury Bond 7-10yr,IBTM,IE00B1FZS798,LSE,etf,Dist,7-10 year US Treasury bonds,£3.7B,4.44%,£124.53,GBP,https://lightyear.com/etf/IBTM:LSE
+Vanguard FTSE Emerging Markets,VFEM,IE00B3VVMM84,LSE,etf,Dist,Emerging markets stocks,£3.6B,2.18%,£58.35,GBP,https://lightyear.com/etf/VFEM:LSE
+Xtrackers MSCI Europe Small Cap,XXSC,LU0322253906,LSE,etf,Acc,European small-cap stocks,£3.6B,0.00%,£62.12,GBX,https://lightyear.com/etf/XXSC:LSE
+Amundi STOXX Europe 600 Banks,CB5,LU1834983477,LSE,etf,Acc,European bank stocks,£3.5B,0.00%,£56.45,GBX,https://lightyear.com/etf/CB5:LSE
+iShares USD Corporate Bond,LQDS,IE0032895942,LSE,etf,Dist,USD corporate bonds,£3.5B,5.28%,£71.98,GBX,https://lightyear.com/etf/LQDS:LSE
+Vanguard USD Corporate Bond,VCPA,IE00BGYWFK87,LSE,etf,Acc,US corporate bonds,£3.4B,0.00%,£45.04,GBP,https://lightyear.com/etf/VCPA:LSE
+Vanguard FTSE North America,VNRT,IE00BKX55R35,LSE,etf,Dist,North American stocks,£3.4B,0.87%,£140.27,GBP,https://lightyear.com/etf/VNRT:LSE
+iShares MSCI EM SRI,SUES,IE00BYVJRP78,LSE,etf,Acc,Emerging markets ESG stocks,£3.4B,0.00%,£7.93,GBX,https://lightyear.com/etf/SUES:LSE
+iShares MSCI USA SRI,SUUS,IE00BYVJRR92,LSE,etf,Acc,US ESG stocks,£3.3B,0.00%,£15.47,GBX,https://lightyear.com/etf/SUUS:LSE
+iShares EUR Ultrashort Bond,ERN1,IE00BCRY6557,LSE,etf,Dist,Euro short term corporate bonds,£3.3B,2.94%,£84.71,GBP,https://lightyear.com/etf/ERN1:LSE
+Vanguard FTSE Developed Europe ex UK,VERX,IE00BKX55S42,LSE,etf,Dist,European stocks (ex. UK),£3.3B,2.57%,£41.15,GBP,https://lightyear.com/etf/VERX:LSE
+iShares EUR Corporate Bond 1-5yr,SE15,IE00B4L60045,LSE,etf,Dist,Euro corporate bond,£3.3B,3.12%,£88.06,GBP,https://lightyear.com/etf/SE15:LSE
+Vanguard FTSE All-World High Dividend Yield,VHYG,IE00BK5BR626,LSE,etf,Acc,Global high-dividend stocks,£3.3B,0.00%,£79.50,GBP,https://lightyear.com/etf/VHYG:LSE
+Vanguard EUR Corporate Bond,VECP,IE00BZ163G84,LSE,etf,Dist,Eurozone corporate bonds,£3.3B,3.47%,£39.29,GBP,https://lightyear.com/etf/VECP:LSE
+iShares Core UK GILTS,IGLT,IE00B1FZSB30,LSE,etf,Dist,UK Gilts,£3.3B,4.52%,£9.59,GBP,https://lightyear.com/etf/IGLT:LSE
+iShares MSCI USA Small Cap CTB Enhanced ESG,CUS1,IE00B3VWM098,LSE,etf,Acc,US ESG small cap stocks,£3.2B,0.00%,£499.15,GBX,https://lightyear.com/etf/CUS1:LSE
+iShares Core FTSE 100,CUKX,IE00B53HP851,LSE,etf,Acc,Top 100 UK stocks,£3.2B,0.00%,£221.25,GBX,https://lightyear.com/etf/CUKX:LSE
+iShares S&P Small Cap 600,ISP6,IE00B2QWCY14,LSE,etf,Dist,US small cap stocks,£3.2B,1.07%,£82.98,GBX,https://lightyear.com/etf/ISP6:LSE
+Vanguard FTSE North America,VNRG,IE00BK5BQW10,LSE,etf,Acc,North American stocks,£3.2B,0.00%,£145.16,GBP,https://lightyear.com/etf/VNRG:LSE
+iShares MSCI Europe SRI,IESG,IE00B52VJ196,LSE,etf,Acc,European ESG stocks,£3.2B,0.00%,£65.26,GBX,https://lightyear.com/etf/IESG:LSE
+Xtrackers MSCI World Quality,XDEQ,IE00BL25JL35,LSE,etf,Acc,Developed Markets quality stocks,£3.1B,0.00%,£68.60,GBX,https://lightyear.com/etf/XDEQ:LSE
+iShares Global Clean Energy,INRG,IE00B1XNHC34,LSE,etf,Dist,Global clean energy stocks,£3.1B,1.12%,£7.00,GBX,https://lightyear.com/etf/INRG:LSE
+Vanguard FTSE Developed Europe,VEUA,IE00BK5BQX27,LSE,etf,Acc,European stocks,£2.9B,0.00%,£50.00,GBP,https://lightyear.com/etf/VEUA:LSE
+Vanguard USD Corporate 1-3 Year Bond,VSCA,IE00BGYWSV06,LSE,etf,Acc,Short-term USD corporate bonds,£2.9B,0.00%,£46.38,GBP,https://lightyear.com/etf/VSCA:LSE
+Vanguard EUR Corporate Bond,VECA,IE00BGYWT403,LSE,etf,Acc,Euro corporate bonds,£2.7B,0.00%,£44.18,GBP,https://lightyear.com/etf/VECA:LSE
+iShares Global Aggregate Bond,SAGG,IE00B3F81409,LSE,etf,Dist,Global bonds,£2.7B,3.36%,£3.17,GBP,https://lightyear.com/etf/SAGG:LSE
+iShares Edge MSCI World Minimum Volatility,MINV,IE00B8FHGS14,LSE,etf,Acc,Developed markets stocks,£2.6B,0.00%,£59.30,GBX,https://lightyear.com/etf/MINV:LSE
+iShares Edge MSCI Europe Value Factor,IEFV,IE00BQN1K901,LSE,etf,Acc,European value stocks,£2.6B,0.00%,£11.13,GBX,https://lightyear.com/etf/IEFV:LSE
+Invesco Technology S&P US Select Sector,XLKQ,IE00B3VSSL01,LSE,etf,Acc,US technology stocks,£2.6B,0.00%,£794.50,GBX,https://lightyear.com/etf/XLKQ:LSE
+Xtrackers Nasdaq 100,XNAQ,IE00BMFKG444,LSE,etf,Acc,Top 100 NASDAQ stocks,£2.5B,0.00%,£50.92,GBP,https://lightyear.com/etf/XNAQ:LSE
+iShares S&P 500 Financials Sector,UIFS,IE00B4JNQZ49,LSE,etf,Acc,US finance stocks,£2.4B,0.00%,£12.38,GBX,https://lightyear.com/etf/UIFS:LSE
+iShares MSCI Canada,CSCA,IE00B52SF786,LSE,etf,Acc,Top Canadian stocks,£2.4B,0.00%,£236.51,GBX,https://lightyear.com/etf/CSCA:LSE
+VanEck S&P Global Mining,GIGB,IE00BDFBTQ78,LSE,etf,Acc,Global mining stocks,£2.4B,0.00%,£43.87,GBP,https://lightyear.com/etf/GIGB:LSE
+Xtrackers MSCI World Momentum,XDEM,IE00BL25JP72,LSE,etf,Acc,Developed Markets momentum stocks,£2.4B,0.00%,£69.92,GBX,https://lightyear.com/etf/XDEM:LSE
+iShares USD High Yield Corporate Bond,SHYU,IE00B4PY7Y77,LSE,etf,Dist,High yield USD corporate bonds,£2.3B,8.05%,£68.28,GBP,https://lightyear.com/etf/SHYU:LSE
+iShares Dow Jones Global Leaders Screened,IGSG,IE00B57X3V84,LSE,etf,Acc,Global sustainable stocks,£2.3B,0.00%,£76.52,GBX,https://lightyear.com/etf/IGSG:LSE
+Vanguard FTSE Emerging Markets,VFEG,IE00BK5BR733,LSE,etf,Acc,Emerging markets stocks,£2.3B,0.00%,£62.74,GBP,https://lightyear.com/etf/VFEG:LSE
+iShares MSCI Japan Screened,SGJP,IE00BFNM3L97,LSE,etf,Acc,Japanese ESG stocks,£2.3B,0.00%,£7.39,GBP,https://lightyear.com/etf/SGJP:LSE
+iShares EUR Corporate Bond 0-3yr ESG,SUSS,IE00BYZTVV78,LSE,etf,Dist,EGS Euro corporate bonds,£2.2B,2.91%,£4.14,GBX,https://lightyear.com/etf/SUSS:LSE
+Xtrackers Global Government Bond,XGSG,LU0641006290,LSE,etf,Dist,Global government bonds,£2.2B,2.91%,£23.23,GBX,https://lightyear.com/etf/XGSG:LSE
+iShares Global Water,IH2O,IE00B1TXK627,LSE,etf,Dist,Global water related stocks,£2.2B,1.36%,£56.53,GBX,https://lightyear.com/etf/IH2O:LSE
+Vaneck Uranium And Nuclear Technologies,NUCG,IE000M7V94E1,LSE,etf,Acc,Uranium and Nuclear,£2.1B,0.00%,£32.76,GBP,https://lightyear.com/etf/NUCG:LSE
+iShares UK Gilts 0-5yr,IGLS,IE00B4WXJK79,LSE,etf,Dist,UK government bonds,£2.1B,3.98%,£125.25,GBP,https://lightyear.com/etf/IGLS:LSE
+SPDR S&P U.S. Technology Select Sector,GXLK,IE00BWBXM948,LSE,etf,Acc,US technology stocks,£2.1B,0.00%,£140.50,GBP,https://lightyear.com/etf/GXLK:LSE
+L&G Artificial Intelligence,AIAG,IE00BK5BCD43,LSE,etf,Acc,Global artificial intelligence stocks,£2.1B,0.00%,£29.52,GBX,https://lightyear.com/etf/AIAG:LSE
+L&G Global Equity,LGGG,IE00BFXR5S54,LSE,etf,Acc,Developed Markets stocks,£2.0B,0.00%,£20.70,GBX,https://lightyear.com/etf/LGGG:LSE
+Amundi MSCI Semiconductors,SEMG,LU1900066033,LSE,etf,Acc,Semiconductor industry stocks,£2.0B,0.00%,£89.56,GBX,https://lightyear.com/etf/SEMG:LSE
+Vanguard FTSE Developed Asia Pacific ex Japan,VAPX,IE00B9F5YL18,LSE,etf,Dist,"HK, SG, AU, NZ stocks",£2.0B,2.23%,£30.65,GBP,https://lightyear.com/etf/VAPX:LSE
+iShares MSCI EM Latin America,LTAM,IE00B27YCK28,LSE,etf,Dist,Latin America stocks,£2.0B,3.05%,£17.18,GBX,https://lightyear.com/etf/LTAM:LSE
+Invesco MSCI World Equal Weight,MWEP,IE000OEF25S1,LSE,etf,Acc,Equal-weighted global stocks,£2.0B,0.00%,£5.07,GBX,https://lightyear.com/etf/MWEP:LSE
+Vanguard Global Aggregate Bond,VAGS,IE00BG47K971,LSE,etf,Acc,Global aggregate bonds,£2.0B,0.00%,£25.51,GBP,https://lightyear.com/etf/VAGS:LSE
+iShares MSCI China Tech,CTCE,IE000NFR7C63,LSE,etf,Acc,Chinese technology stocks,£2.0B,0.00%,£3.04,GBP,https://lightyear.com/etf/CTCE:LSE
+iShares € Inflation Linked Govt Bond,IBCI,IE00B0M62X26,LSE,etf,Acc,Euro inflation-linked bonds,£2.0B,0.00%,£191.65,GBP,https://lightyear.com/etf/IBCI:LSE
+Vanguard FTSE 100,VUKG,IE00BFMXYP42,LSE,etf,Acc,Large UK stocks,£1.9B,0.00%,£57.79,GBP,https://lightyear.com/etf/VUKG:LSE
+iShares MSCI AC Far East ex-Japan,IFFF,IE00B0M63730,LSE,etf,Dist,East Asian stocks,£1.9B,1.11%,£64.95,GBX,https://lightyear.com/etf/IFFF:LSE
+WisdomTree Global Quality Dividend Growth,GGRG,IE00BZ56SW52,LSE,etf,Acc,Global dividend stocks,£1.9B,0.00%,£37.02,GBX,https://lightyear.com/etf/GGRG:LSE
+Xtrackers MSCI World Energy,XWES,IE00BM67HM91,LSE,etf,Acc,Developed Markets energy stocks,£1.9B,0.00%,£61.94,GBP,https://lightyear.com/etf/XWES:LSE
+iShares Global Aerospace & Defence,DFND,IE000U9ODG19,LSE,etf,Acc,Global aerospace & defence stocks,£1.9B,0.00%,£6.59,GBP,https://lightyear.com/etf/DFND:LSE
+iShares Edge S&P 500 Minimum Volatility,MVUS,IE00B6SPMN59,LSE,etf,Acc,Minimum volatility US stocks,£1.9B,0.00%,£90.41,GBX,https://lightyear.com/etf/MVUS:LSE
+iShares MSCI World SRI,SUWG,IE00BDZZTM54,LSE,etf,Dist,Global sustainable stocks,£1.9B,1.19%,£8.77,GBP,https://lightyear.com/etf/SUWG:LSE
+iShares Global Corporate Bond,CRPS,IE00B7J7TB45,LSE,etf,Dist,Global corporate bonds,£1.8B,4.53%,£63.75,GBP,https://lightyear.com/etf/CRPS:LSE
+Amundi Bloomberg Equal-Weight Commodity ex-Agriculture,COMG,LU1829218749,LSE,etf,Acc,Energy and metals commodities,£1.8B,0.00%,£32.30,GBX,https://lightyear.com/etf/COMG:LSE
+iShares Edge MSCI USA Quality Factor,IUQF,IE00BD1F4L37,LSE,etf,Acc,Quality US stocks,£1.8B,0.00%,£14.16,GBX,https://lightyear.com/etf/IUQF:LSE
+iShares USD Short Duration Corporate Bond,IGSD,IE00BCRY5Y77,LSE,etf,Dist,Short duration USD corporate bonds,£1.8B,4.45%,£73.69,GBP,https://lightyear.com/etf/IGSD:LSE
+JPMorgan EUR Ultra-Short Income Active,JSET,IE00BD9MMF62,LSE,etf,Acc,EUR ultra-short bonds,£1.8B,0.00%,£92.75,GBP,https://lightyear.com/etf/JSET:LSE
+SPDR S&P Euro Dividend Aristocrats,EUDV,IE00B5M1WJ87,LSE,etf,Dist,Eurozone high dividend stocks,£1.8B,3.67%,£25.50,GBP,https://lightyear.com/etf/EUDV:LSE
+SPDR S&P Global Dividend Aristocrats,GBDV,IE00B9CQXS71,LSE,etf,Dist,Global dividend stocks,£1.8B,3.98%,£29.12,GBP,https://lightyear.com/etf/GBDV:LSE
+iShares € Govt Bond 1-3yr,IBGS,IE00B14X4Q57,LSE,etf,Dist,Euro government bonds,£1.8B,2.17%,£116.66,GBP,https://lightyear.com/etf/IBGS:LSE
+iShares MSCI World Quality Dividend,WQDS,IE00BYYHSQ67,LSE,etf,Dist,Developed markets dividend stocks,£1.8B,2.12%,£7.26,GBX,https://lightyear.com/etf/WQDS:LSE
+iShares MSCI Europe Financials Sector,ESIF,IE00BMW42306,LSE,etf,Acc,European financial sector stocks,£1.7B,0.00%,£13.54,GBP,https://lightyear.com/etf/ESIF:LSE
+L&G ROBO Global Robotics and Automation,ROBG,IE00BMW3QX54,LSE,etf,Acc,Global robotics stocks,£1.7B,0.00%,£22.91,GBX,https://lightyear.com/etf/ROBG:LSE
+Vaneck Space Innovators,JEDG,IE000YU9K6K2,LSE,etf,Acc,Space industry stocks,£1.7B,0.00%,£51.46,GBP,https://lightyear.com/etf/JEDG:LSE
+iShares MSCI World Islamic,ISWD,IE00B27YCN58,LSE,etf,Dist,Global Islamic stocks,£1.6B,0.93%,£51.38,GBX,https://lightyear.com/etf/ISWD:LSE
+Vanguard FTSE Japan,VJPB,IE00BFMXYX26,LSE,etf,Acc,Japanese large- and mid-cap stocks,£1.6B,0.00%,£36.35,GBP,https://lightyear.com/etf/VJPB:LSE
+iShares S&P 500 Energy Sector,IESU,IE00B42NKQ00,LSE,etf,Acc,US energy stocks,£1.6B,0.00%,£10.96,GBX,https://lightyear.com/etf/IESU:LSE
+Fidelity US Quality Income,FUSI,IE00BYXVGX24,LSE,etf,Dist,US quality income stocks,£1.6B,1.37%,£10.30,GBX,https://lightyear.com/etf/FUSI:LSE
+iShares Euro Aggregate Bond ESG,SEAG,IE00B3DKXQ41,LSE,etf,Dist,Global ESG bonds,£1.5B,2.65%,£86.78,GBP,https://lightyear.com/etf/SEAG:LSE
+iShares MSCI Europe ex-UK,IEUX,IE00B14X4N27,LSE,etf,Dist,European stocks (ex. UK),£1.5B,2.07%,£45.59,GBX,https://lightyear.com/etf/IEUX:LSE
+Vanguard FTSE 250,VMID,IE00BKX55Q28,LSE,etf,Dist,Mid-cap UK stocks,£1.5B,3.42%,£36.83,GBP,https://lightyear.com/etf/VMID:LSE
+Vanguard USD Treasury Bond,VUTA,IE00BGYWFS63,LSE,etf,Acc,US treasury bonds,£1.5B,0.00%,£20.07,GBP,https://lightyear.com/etf/VUTA:LSE
+iShares MSCI EMU Screened,SAUM,IE00BFNM3B99,LSE,etf,Acc,EMU ESG screened stocks,£1.5B,0.00%,£9.14,GBP,https://lightyear.com/etf/SAUM:LSE
+iShares Emerging Markets Dividend,SEDY,IE00B652H904,LSE,etf,Dist,Emerging markets dividend stocks,£1.5B,4.83%,£14.57,GBX,https://lightyear.com/etf/SEDY:LSE
+Xtrackers MSCI World Financials,XWFS,IE00BM67HL84,LSE,etf,Acc,Developed Markets financial stocks,£1.5B,0.00%,£34.98,GBP,https://lightyear.com/etf/XWFS:LSE
+iShares MSCI Taiwan,ITWN,IE00B0M63623,LSE,etf,Dist,Taiwan large and mid-cap stocks,£1.5B,0.76%,£145.16,GBX,https://lightyear.com/etf/ITWN:LSE
+VanEck World Equal Weight Screened,TSGB,NL0010408704,LSE,etf,Dist,Global ESG stocks,£1.4B,1.78%,£35.55,GBP,https://lightyear.com/etf/TSGB:LSE
+VanEck Junior Gold Miners,GJGB,IE00BQQP9G91,LSE,etf,Acc,Global junior gold miners,£1.4B,0.00%,£72.40,GBP,https://lightyear.com/etf/GJGB:LSE
+Amundi DAX II,DAXX,LU0252633754,LSE,etf,Acc,Top 40 German stocks,£1.4B,0.00%,£193.79,GBX,https://lightyear.com/etf/DAXX:LSE
+Vanguard EUR Eurozone Government Bond,VETY,IE00BZ163H91,LSE,etf,Dist,Eurozone government bonds,£1.4B,3.03%,£17.65,GBP,https://lightyear.com/etf/VETY:LSE
+Xtrackers MSCI Japan,XMJP,LU0274209740,LSE,etf,Acc,Japanese large- and mid-cap stocks,£1.4B,0.00%,£89.11,GBX,https://lightyear.com/etf/XMJP:LSE
+iShares € Govt Bond 3-7yr,CE71,IE00B3VTML14,LSE,etf,Acc,Euro government bonds,£1.4B,0.00%,£109.55,GBX,https://lightyear.com/etf/CE71:LSE
+iShares UK Dividend,IUKD,IE00B0M63060,LSE,etf,Dist,UK dividend stocks,£1.3B,4.62%,£10.10,GBX,https://lightyear.com/etf/IUKD:LSE
+iShares Healthcare Innovation,DRDR,IE00BYZK4776,LSE,etf,Acc,Healthcare stocks,£1.3B,0.00%,£8.31,GBX,https://lightyear.com/etf/DRDR:LSE
+iShares S&P 500 Utilities Sector,IUSU,IE00B4KBBD01,LSE,etf,Acc,US Utilities sector stocks,£1.3B,0.00%,£7.87,GBX,https://lightyear.com/etf/IUSU:LSE
+iShares MSCI Europe Industrials Sector,ESIN,IE00BMW42520,LSE,etf,Acc,European industrials stocks,£1.3B,0.00%,£7.70,GBP,https://lightyear.com/etf/ESIN:LSE
+iShares Russell 1000 Growth,R1GB,IE000NITTFF2,LSE,etf,Acc,US large-cap growth stocks,£1.3B,0.00%,£33.95,GBP,https://lightyear.com/etf/R1GB:LSE
+iShares AI Infrastructure,AINF,IE000X59ZHE2,LSE,etf,Acc,AI infrastructure stocks,£1.3B,0.00%,£8.01,GBP,https://lightyear.com/etf/AINF:LSE
+iShares Developed Markets Property Yield,IWDP,IE00B1FZS350,LSE,etf,Dist,Developed markets property stocks,£1.2B,3.21%,£18.01,GBX,https://lightyear.com/etf/IWDP:LSE
+iShares S&P 500 GBP Hedged,IGUS,IE00B3Y8X563,LSE,etf,Acc,GBP-hedged US stocks,£1.2B,0.00%,£176.28,GBX,https://lightyear.com/etf/IGUS:LSE
+iShares MSCI Korea,IKOR,IE00B0M63391,LSE,etf,Dist,Korean stocks,£1.2B,0.41%,£82.47,GBX,https://lightyear.com/etf/IKOR:LSE
+SPDR MSCI World Technology,TECW,IE00BYTRRD19,LSE,etf,Acc,Developed markets technology stocks,£1.2B,0.00%,£202.40,GBP,https://lightyear.com/etf/TECW:LSE
+iShares Nasdaq US Biotechnology,BTEK,IE00BYXG2H39,LSE,etf,Acc,US biotech stocks,£1.1B,0.00%,£7.74,GBP,https://lightyear.com/etf/BTEK:LSE
+Xtrackers MSCI Nordic,XDN0,IE00B9MRHC27,LSE,etf,Dist,Nordic stocks,£1.1B,2.61%,£44.62,GBX,https://lightyear.com/etf/XDN0:LSE
+Vanguard ESG Global All Cap,V3AB,IE00BNG8L278,LSE,etf,Acc,Global ESG stocks,£1.1B,0.00%,£6.51,GBP,https://lightyear.com/etf/V3AB:LSE
+iShares MSCI Poland,SPOL,IE00B4M7GH52,LSE,etf,Acc,Polish stocks,£1.1B,0.00%,£31.60,GBX,https://lightyear.com/etf/SPOL:LSE
+SPDR S&P U.S. Energy Select Sector,GXLE,IE00BWBXM492,LSE,etf,Acc,US energy stocks,£1.1B,0.00%,£41.88,GBP,https://lightyear.com/etf/GXLE:LSE
+Amundi MSCI New Energy ESG Screened,NRJL,FR0010524777,LSE,etf,Dist,ESG Energy stocks,£1.1B,0.36%,£31.93,GBP,https://lightyear.com/etf/NRJL:LSE
+VanEck Rare Earth and Strategic Metals,REGB,IE0002PG6CA6,LSE,etf,Acc,Rare earth metals stocks,£1.1B,0.00%,£7.69,GBP,https://lightyear.com/etf/REGB:LSE
+Vanguard FTSE Developed Asia Pacific ex Japan,VDPG,IE00BK5BQZ41,LSE,etf,Acc,Developed Asia Pacific stocks,£1.0B,0.00%,£39.37,GBP,https://lightyear.com/etf/VDPG:LSE
+WisdomTree Energy Transition Metals and Rare Earths Miners,WREE,IE000KHX9DX6,LSE,etf,Acc,Metals and Earths Miners,£1.0B,0.00%,£34.08,GBX,https://lightyear.com/etf/WREE:LSE
+iShares J.P. Morgan USD EM Corporate Bond,EMCP,IE00B6TLBW47,LSE,etf,Dist,Emerging markets corporate bonds,£1.0B,7.30%,£64.83,GBP,https://lightyear.com/etf/EMCP:LSE
+iShares Essential Metals Producers,METG,IE000ROSD5J6,LSE,etf,Acc,Essential metals producers stocks,£987M,0.00%,£6.64,GBP,https://lightyear.com/etf/METG:LSE
+Global X SuperDividend,SDIP,IE00077FRP95,LSE,etf,Dist,Global high-dividend stocks,£978M,9.90%,£7.14,GBP,https://lightyear.com/etf/SDIP:LSE
+Invesco CoinShares Global Blockchain,BCHS,IE00BGBN6P67,LSE,etf,Acc,Blockchain technology stocks,£976M,0.00%,£123.91,GBX,https://lightyear.com/etf/BCHS:LSE
+iShares Global High Yield Corporate Bond,IGHY,IE00B74DQ490,LSE,etf,Dist,Global high-yield bonds,£963M,6.07%,£63.45,GBP,https://lightyear.com/etf/IGHY:LSE
+iShares USD Short Duration High Yield Corporate Bond,SDHG,IE00BCRY6003,LSE,etf,Dist,US corporate bonds,£959M,8.57%,£63.05,GBP,https://lightyear.com/etf/SDHG:LSE
+Xtrackers MSCI World Utilities,XWUS,IE00BM67HQ30,LSE,etf,Acc,Developed markets utilities stocks,£959M,0.00%,£34.72,GBP,https://lightyear.com/etf/XWUS:LSE
+iShares Ageing Population,AGES,IE00BYZK4669,LSE,etf,Acc,Global ageing population stocks,£953M,0.00%,£7.81,GBX,https://lightyear.com/etf/AGES:LSE
+iShares EUR Corporate Bond ex-Financials,EEXF,IE00B4L5ZG21,LSE,etf,Dist,Euro industrials and utility bonds,£928M,2.98%,£88.85,GBP,https://lightyear.com/etf/EEXF:LSE
+Xtrackers MSCI World Consumer Staples,XWCS,IE00BM67HN09,LSE,etf,Acc,Developed Markets consumer staples stocks,£926M,0.00%,£43.34,GBP,https://lightyear.com/etf/XWCS:LSE
+SPDR Bloomberg Global Aggregate Bond USD Hdg,GLBL,IE00B43QJJ40,LSE,etf,Dist,Global high quality bonds,£926M,3.38%,£18.63,GBP,https://lightyear.com/etf/GLBL:LSE
+Fidelity Global Quality Income,FGQD,IE00BYXVGZ48,LSE,etf,Dist,Global quality income stocks,£906M,1.70%,£8.81,GBX,https://lightyear.com/etf/FGQD:LSE
+iShares MSCI Europe Health Care Sector,ESIH,IE00BMW42181,LSE,etf,Acc,European health care stocks,£890M,0.00%,£6.29,GBP,https://lightyear.com/etf/ESIH:LSE
+iShares STOXX World Equity Multifactor,FSWD,IE00BZ0PKT83,LSE,etf,Acc,Developed markets factor stocks,£877M,0.00%,£12.25,GBX,https://lightyear.com/etf/FSWD:LSE
+WisdomTree Artificial Intelligence,INTL,IE00BDVPNG13,LSE,etf,Acc,AI technology stocks,£870M,0.00%,£83.36,GBX,https://lightyear.com/etf/INTL:LSE
+iShares China Large Cap,FXC,IE00B02KXK85,LSE,etf,Dist,Top 50 Chinese stocks,£853M,2.10%,£68.34,GBX,https://lightyear.com/etf/FXC:LSE
+iShares Listed Private Equity,IPRV,IE00B1TXHL60,LSE,etf,Dist,Listed private equity stocks,£843M,4.07%,£21.80,GBX,https://lightyear.com/etf/IPRV:LSE
+iShares European Property Yield,IPRP,IE00B0M63284,LSE,etf,Dist,European property stocks,£833M,3.29%,£22.44,GBX,https://lightyear.com/etf/IPRP:LSE
+WisdomTree US Quality Dividend Growth,DGRP,IE00BZ56RD98,LSE,etf,Dist,US dividend growth stocks,£822M,0.92%,£38.31,GBX,https://lightyear.com/etf/DGRP:LSE
+iShares Digitalisation,DGIT,IE00BYZK4883,LSE,etf,Acc,Digitalisation stocks,£813M,0.00%,£9.06,GBX,https://lightyear.com/etf/DGIT:LSE
+Vaneck Quantum Computing,QNTG,IE0007Y8Y157,LSE,etf,Acc,Quantum computing stocks,£812M,0.00%,£19.54,GBP,https://lightyear.com/etf/QNTG:LSE
+Amundi FTSE EPRA NAREIT Global,EPRA,LU1437018838,LSE,etf,Acc,Global real estate stocks,£788M,0.00%,£57.76,GBX,https://lightyear.com/etf/EPRA:LSE
+iShares S&P 500 Consumer Discretionary Sector,ICDU,IE00B4MCHD36,LSE,etf,Acc,,£788M,0.00%,£12.31,GBX,https://lightyear.com/etf/ICDU:LSE
+iShares S&P 500 Industrials Sector,IISU,IE00B4LN9N13,LSE,etf,Acc,US industrial sector stocks,£787M,0.00%,£10.60,GBX,https://lightyear.com/etf/IISU:LSE
+iShares MSCI USA Quality Dividend ESG,HDIQ,IE00BKM4H312,LSE,etf,Dist,US dividend stocks,£784M,1.53%,£50.24,GBX,https://lightyear.com/etf/HDIQ:LSE
+iShares AEX,IAEX,IE00B0M62Y33,LSE,etf,Dist,Top 25 Dutch stocks,£781M,1.92%,£94.67,GBX,https://lightyear.com/etf/IAEX:LSE
+L&G Battery Value-Chain,BATG,IE00BF0M2Z96,LSE,etf,Acc,Battery stocks,£781M,0.00%,£18.90,GBX,https://lightyear.com/etf/BATG:LSE
+L&G Clean Water,GLGG,IE00BK5BC891,LSE,etf,Acc,Global clean water stocks,£772M,0.00%,£15.24,GBX,https://lightyear.com/etf/GLGG:LSE
+L&G Clean Energy,RENG,IE00BK5BCH80,LSE,etf,Acc,Global clean energy stocks,£749M,0.00%,£10.78,GBX,https://lightyear.com/etf/RENG:LSE
+iShares Asia Pacific Dividend,IAPD,IE00B14X4T88,LSE,etf,Dist,Asian dividend stocks,£733M,4.18%,£23.59,GBX,https://lightyear.com/etf/IAPD:LSE
+iShares Edge MSCI Europe Momentum Factor,IEFM,IE00BQN1K786,LSE,etf,Acc,European momentum stocks,£721M,0.00%,£13.05,GBX,https://lightyear.com/etf/IEFM:LSE
+SPDR MSCI World Health Care,HEAW,IE00BYTRRB94,LSE,etf,Acc,Developed Markets health care stocks,£708M,0.00%,£56.49,GBP,https://lightyear.com/etf/HEAW:LSE
+iShares World Equity High Income Active,WINC,IE000KJPDY61,LSE,etf,Dist,Developed Market income stocks,£685M,11.29%,£4.34,GBP,https://lightyear.com/etf/WINC:LSE
+L&G Gold Mining,AUCP,IE00B3CNHG25,LSE,etf,Acc,Gold mining,£679M,0.00%,£80.63,GBX,https://lightyear.com/etf/AUCP:LSE
+Vanguard ESG Global All Cap,V3AM,IE00BNG8L385,LSE,etf,Dist,Global ESG stocks,£678M,1.14%,£6.02,GBP,https://lightyear.com/etf/V3AM:LSE
+iShares FTSE 250,MIDD,IE00B00FV128,LSE,etf,Dist,Mid-cap UK stocks,£672M,3.13%,£22.35,GBX,https://lightyear.com/etf/MIDD:LSE
+SPDR MSCI Emerging Markets Small Cap,EMSM,IE00B48X4842,LSE,etf,Acc,Emerging Markets small-cap stocks,£647M,0.00%,£110.93,GBP,https://lightyear.com/etf/EMSM:LSE
+iShares USD Ultrashort Bond,ERNU,IE00BCRY6227,LSE,etf,Dist,US corporate bonds,£635M,5.32%,£74.64,GBP,https://lightyear.com/etf/ERNU:LSE
+iShares MSCI Australia,SAUS,IE00B5377D42,LSE,etf,Acc,Australian stocks,£632M,0.00%,£47.17,GBX,https://lightyear.com/etf/SAUS:LSE
+iShares MSCI EMU Screened,SMUD,IE00BFNM3C07,LSE,etf,Dist,ESG screened European stocks,£627M,2.54%,£7.46,GBP,https://lightyear.com/etf/SMUD:LSE
+Vanguard USD Treasury Bond,VUTY,IE00BZ163M45,LSE,etf,Dist,US treasury bonds,£614M,4.32%,£15.50,GBP,https://lightyear.com/etf/VUTY:LSE
+iShares Copper Miners,MINE,IE00063FT9K6,LSE,etf,Acc,Copper mining stocks,£601M,0.00%,£7.69,GBP,https://lightyear.com/etf/MINE:LSE
+iShares EURO STOXX Mid Cap,DJMC,IE00B02KXL92,LSE,etf,Dist,European mid cap stocks,£595M,2.60%,£73.62,GBX,https://lightyear.com/etf/DJMC:LSE
+iShares Electric Vehicles And Driving Technology,GCAR,IE00BGL86Z12,LSE,etf,Acc,Electric vehicle stocks,£591M,0.00%,£8.62,GBP,https://lightyear.com/etf/GCAR:LSE
+VanEck Video Gaming and eSports,ESGB,IE00BYWQWR46,LSE,etf,Acc,Video gaming and eSports stocks,£590M,0.00%,£49.26,GBP,https://lightyear.com/etf/ESGB:LSE
+Invesco EURO STOXX High Dividend Low Volatility,EUHD,IE00BZ4BMM98,LSE,etf,Dist,Eurozone high-dividend stocks,£589M,4.07%,£29.45,GBX,https://lightyear.com/etf/EUHD:LSE
+Global X European Infrastructure Development,BRIP,IE000PS0J481,LSE,etf,Acc,European infrastructure stocks,£578M,0.00%,£15.46,GBP,https://lightyear.com/etf/BRIP:LSE
+SPDR MSCI World Energy,ENGW,IE00BYTRR863,LSE,etf,Acc,Global energy stocks,£575M,0.00%,£63.20,GBP,https://lightyear.com/etf/ENGW:LSE
+Vanguard FTSE 250,VMIG,IE00BFMXVQ44,LSE,etf,Acc,UK mid-cap stocks,£569M,0.00%,£46.05,GBP,https://lightyear.com/etf/VMIG:LSE
+Amundi Stoxx Europe Defense,DEFE,LU3038520774,LSE,etf,Acc,Aerospace & Defense stocks,£568M,0.00%,£4.83,GBP,https://lightyear.com/etf/DEFE:LSE
+iShares MSCI USA Islamic,ISUS,IE00B296QM64,LSE,etf,Dist,US Islamic stocks,£558M,0.60%,£79.05,GBX,https://lightyear.com/etf/ISUS:LSE
+Invesco Health Care S&P US Select Sector,XLVP,IE00B3WMTH43,LSE,etf,Acc,US health care stocks,£552M,0.00%,£669.25,GBX,https://lightyear.com/etf/XLVP:LSE
+Global X Defence Tech,ARMG,IE000JCW3DZ3,LSE,etf,Acc,Global defence tech stocks,£537M,0.00%,£20.86,GBP,https://lightyear.com/etf/ARMG:LSE
+iShares S&P 500 Top 20,SP20,IE000VA628D5,LSE,etf,Acc,Largest 20 US stocks,£533M,0.00%,£5.13,GBP,https://lightyear.com/etf/SP20:LSE
+iShares S&P 500 Consumer Staples Sector,ICSU,IE00B40B8R38,LSE,etf,Acc,US consumer staples stocks,£533M,0.00%,£8.01,GBX,https://lightyear.com/etf/ICSU:LSE
+VanEck Crypto And Blockchain Innovators,DAGB,IE00BMDKNW35,LSE,etf,Acc,Crypto and blockchain stocks,£511M,0.00%,£8.30,GBP,https://lightyear.com/etf/DAGB:LSE
+iShares Edge MSCI EM Minimum Volatility,EMV,IE00B8KGV557,LSE,etf,Acc,Emerging markets stocks,£503M,0.00%,£32.88,GBX,https://lightyear.com/etf/EMV:LSE
+iShares MSCI Brazil,IBZL,IE00B0M63516,LSE,etf,Dist,Brazilian stocks,£501M,3.12%,£25.16,GBX,https://lightyear.com/etf/IBZL:LSE
+iShares Agribusiness,SPAG,IE00B6R52143,LSE,etf,Acc,Agribusiness companies,£494M,0.00%,£40.69,GBX,https://lightyear.com/etf/SPAG:LSE
+L&G All Commodities,BCOG,IE00BF0BCP69,LSE,etf,Acc,Diversified commodity futures,£489M,0.00%,£16.12,GBX,https://lightyear.com/etf/BCOG:LSE
+Invesco S&P 500 High Dividend Low Volatility,HDLG,IE00BWTN6Y99,LSE,etf,Dist,US high-dividend stocks,£456M,3.72%,£28.41,GBX,https://lightyear.com/etf/HDLG:LSE
+VanEck Global Real Estate,TREG,NL0009690239,LSE,etf,Dist,Global real estate stocks,£448M,3.34%,£33.48,GBP,https://lightyear.com/etf/TREG:LSE
+UBS Nasdaq-100,QQQA,IE000SB4G4I4,LSE,etf,Acc,Top 100 Nasdaq stocks,£441M,0.00%,£25.57,GBX,https://lightyear.com/etf/QQQA:LSE
+iShares Oil & Gas Exploration & Production,SPOG,IE00B6R51Z18,LSE,etf,Acc,Oil and gas stocks,£438M,0.00%,£28.51,GBX,https://lightyear.com/etf/SPOG:LSE
+iShares GBP Index-Linked Gilts,INXG,IE00B1FZSD53,LSE,etf,Dist,UK government bonds,£435M,7.54%,£10.98,GBP,https://lightyear.com/etf/INXG:LSE
+iShares UK Property,IUKP,IE00B1TXLS18,LSE,etf,Dist,UK property stocks,£401M,4.35%,£4.33,GBX,https://lightyear.com/etf/IUKP:LSE
+Invesco S&P US Select Sector Financials,XLFQ,IE00B42Q4896,LSE,etf,Acc,US financial stocks,£396M,0.00%,£329.77,GBX,https://lightyear.com/etf/XLFQ:LSE
+Vanguard ESG Developed Asia Pacific All Cap,V3PB,IE000GOJO2A3,LSE,etf,Acc,ESG Asia-Pacific stocks,£377M,0.00%,£7.84,GBP,https://lightyear.com/etf/V3PB:LSE
+VanEck Morningstar Wide Moat,MOGB,IE00BQQP9H09,LSE,etf,Acc,US wide moat stocks,£376M,0.00%,£52.10,GBP,https://lightyear.com/etf/MOGB:LSE
+iShares Europe Defence,DFEU,IE000IAXNM41,LSE,etf,Acc,European defence stocks,£376M,0.00%,£4.37,GBP,https://lightyear.com/etf/DFEU:LSE
+iShares MSCI World Health Care Sector Advanced,WHCA,IE0009QS7W62,LSE,etf,Acc,Developed Markets health care stocks,£362M,0.00%,£4.68,GBP,https://lightyear.com/etf/WHCA:LSE
+Vanguard UK Gilt UCITS ETF,VGOV,IE00B42WWV65,LSE,etf,Dist,UK Gilts Fund,£354M,4.67%,£15.24,GBP,https://lightyear.com/etf/VGOV:LSE
+L&G Global Quality Dividends,LDGG,IE0005AJA0P1,LSE,etf,Dist,Global Quality Dividends,£353M,2.56%,£8.19,GBX,https://lightyear.com/etf/LDGG:LSE
+Global X Data Center REITs & Digital Infrastructure,VPNG,IE00BMH5Y327,LSE,etf,Acc,Global digital infrastructure stocks,£347M,0.00%,£17.23,GBP,https://lightyear.com/etf/VPNG:LSE
+iShares AI Innovation Active,IART,IE000G0E83X3,LSE,etf,Acc,Global AI stocks,£304M,0.00%,£5.59,GBP,https://lightyear.com/etf/IART:LSE
+iShares Blockchain Technology,BLKC,IE000RDRMSD1,LSE,etf,Acc,Global blockchain stocks,£304M,0.00%,£10.92,GBP,https://lightyear.com/etf/BLKC:LSE
+JPMorgan Global Equity Multi-Factor,JPLG,IE00BJRCLL96,LSE,etf,Acc,Developed markets factor stocks,£300M,0.00%,£39.23,GBX,https://lightyear.com/etf/JPLG:LSE
+WisdomTree Uranium and Nuclear Energy,NCLP,IE0003BJ2JS4,LSE,etf,Acc,Global uranium stocks,£295M,0.00%,£30.29,GBX,https://lightyear.com/etf/NCLP:LSE
+Vanguard ESG North America All Cap,V3NB,IE000O58J820,LSE,etf,Acc,ESG North American stocks,£290M,0.00%,£6.86,GBP,https://lightyear.com/etf/V3NB:LSE
+iShares MSCI South Africa,SRSA,IE00B52XQP83,LSE,etf,Acc,South African stocks,£285M,0.00%,£42.89,GBX,https://lightyear.com/etf/SRSA:LSE
+WisdomTree Europe High Dividend,EEI,IE00BQZJBX31,LSE,etf,Dist,European high-dividend stocks,£261M,4.57%,£13.56,GBX,https://lightyear.com/etf/EEI:LSE
+iShares MSCI Europe Energy Sector,ESIE,IE00BMW42637,LSE,etf,Acc,European energy stocks,£260M,0.00%,£15.56,GBP,https://lightyear.com/etf/ESIE:LSE
+Vanguard Germany All Cap,VGER,IE00BG143G97,LSE,etf,Dist,German all-cap stocks,£258M,2.30%,£29.48,GBP,https://lightyear.com/etf/VGER:LSE
+iShares MSCI Europe Information Technology,ESIT,IE00BMW42413,LSE,etf,Acc,European technology stocks,£243M,0.00%,£9.66,GBP,https://lightyear.com/etf/ESIT:LSE
+Wisdomtree Cybersecurity,CYSE,IE00BLPK3577,LSE,etf,Acc,Cybersecurity stocks,£223M,0.00%,£33.91,GBX,https://lightyear.com/etf/CYSE:LSE
+iShares S&P 500 Materials Sector,IMSU,IE00B4MKCJ84,LSE,etf,Acc,US materials sector stocks,£218M,0.00%,£8.56,GBX,https://lightyear.com/etf/IMSU:LSE
+"WisdomTree Physical AI, Humanoids and Drones",PAIG,IE000LCKJ888,LSE,etf,Acc,Physical AI stocks,£215M,0.00%,£14.45,GBX,https://lightyear.com/etf/PAIG:LSE
+Vanguard ESG Global Corporate Bond,V3GS,IE00BNDS1T77,LSE,etf,Acc,Global ESG corporate bonds,£202M,0.00%,£5.06,GBP,https://lightyear.com/etf/V3GS:LSE
+Vanguard Global Aggregate Bond,VAGP,IE00BG47KG48,LSE,etf,Dist,Global investment-grade bonds,£198M,3.68%,£21.75,GBP,https://lightyear.com/etf/VAGP:LSE
+iShares Asia Property Yield,IASP,IE00B1FZS244,LSE,etf,Dist,Asian property stocks,£195M,3.85%,£15.60,GBX,https://lightyear.com/etf/IASP:LSE
+iShares AI Adopters and Applications,AIAA,IE000Q9W2IR3,LSE,etf,Acc,AI adoption stocks,£188M,0.00%,£4.69,GBP,https://lightyear.com/etf/AIAA:LSE
+HSBC MSCI Emerging Markets Islamic Screened Capped,HIES,IE0009BC6K22,LSE,etf,Acc,Emerging Markets Islamic ESG stocks,£182M,0.00%,£19.68,GBP,https://lightyear.com/etf/HIES:LSE
+iShares FTSE MIB,IMIB,IE00B1XNH568,LSE,etf,Dist,Top 40 Italian stocks,£173M,3.85%,£24.98,GBX,https://lightyear.com/etf/IMIB:LSE
+Invesco Defence Innovation,DFNX,IE000BRM9046,LSE,etf,Acc,Global defense innovation stocks,£161M,0.00%,£6.77,GBX,https://lightyear.com/etf/DFNX:LSE
+HSBC MSCI World Islamic Screened,HIWS,IE000X9FTI22,LSE,etf,Acc,Islamic ESG world stocks,£153M,0.00%,£27.05,GBP,https://lightyear.com/etf/HIWS:LSE
+iShares MSCI Target UK Real Estate,UKRE,IE00BRHZ0398,LSE,etf,Dist,UK real estate stocks,£151M,6.90%,£3.60,GBX,https://lightyear.com/etf/UKRE:LSE
+Invesco Real Estate S&P US Select Sector,XREP,IE00BYM8JD58,LSE,etf,Acc,US real estate stocks,£150M,0.00%,£19.64,GBX,https://lightyear.com/etf/XREP:LSE
+Vanguard FTSE Global All-cap,VALL,IE000VAHT5T0,LSE,etf,Acc,Global stocks,£147M,0.00%,£3.67,GBP,https://lightyear.com/etf/VALL:LSE
+Invesco Energy S&P US Select Sector,XLEP,IE00B435CG94,LSE,etf,Acc,US energy stocks,£146M,0.00%,£731.85,GBX,https://lightyear.com/etf/XLEP:LSE
+HSBC MSCI Europe Islamic Screened,HIPS,IE000AGFZM58,LSE,etf,Acc,European Islamic ESG stocks,£144M,0.00%,£26.50,GBP,https://lightyear.com/etf/HIPS:LSE
+Invesco S&P 500 Low Volatility,SPLG,IE00BKW9SX35,LSE,etf,Acc,100 low-volatility US stocks,£143M,0.00%,£40.75,GBX,https://lightyear.com/etf/SPLG:LSE
+iShares MSCI Turkey,ITKY,IE00B1FZS574,LSE,etf,Dist,Turkish stocks,£131M,2.00%,£14.95,GBX,https://lightyear.com/etf/ITKY:LSE
+Vanguard ESG Developed Europe All Cap,V3EA,IE000QUOSE01,LSE,etf,Acc,ESG European stocks,£125M,0.00%,£6.49,GBP,https://lightyear.com/etf/V3EA:LSE
+Invesco MSCI ACWI Islamic,MWIX,IE000LFC57H7,LSE,etf,Acc,Global Islamic stocks,£124M,0.00%,£4.47,GBX,https://lightyear.com/etf/MWIX:LSE
+Vanguard Russell 1000 U.S. Value,VRVG,IE000US24HF4,LSE,etf,Acc,US large-cap value stocks,£116M,0.00%,£77.95,GBP,https://lightyear.com/etf/VRVG:LSE
+Vanguard ESG Emerging Markets All Cap,V3MB,IE000KPJJWM6,LSE,etf,Acc,ESG Emerging Markets stocks,£113M,0.00%,£6.81,GBP,https://lightyear.com/etf/V3MB:LSE
+SPDR S&P 500 Low Volatility,USLV,IE00B802KR88,LSE,etf,Acc,100 low-volatility US stocks,£113M,0.00%,£64.19,GBP,https://lightyear.com/etf/USLV:LSE
+WisdomTree Global Efficient Core,WGEC,IE00077IIPQ8,LSE,etf,Acc,Global stocks and bonds,£96M,0.00%,£24.27,GBX,https://lightyear.com/etf/WGEC:LSE
+HSBC MSCI USA Islamic Screened,HIUS,IE000I5NV504,LSE,etf,Acc,US Islamic ESG stocks,£91M,0.00%,£35.12,GBP,https://lightyear.com/etf/HIUS:LSE
+Global X Artificial Intelligence,AIQG,IE0000XTDDA8,LSE,etf,Acc,Artificial Intelligence stocks,£88M,0.00%,£21.12,GBP,https://lightyear.com/etf/AIQG:LSE
+L&G UK Quality Dividends Equal Weight,LDUK,IE00BMYDM802,LSE,etf,Dist,UK quality dividend stocks,£81M,4.72%,£12.39,GBX,https://lightyear.com/etf/LDUK:LSE
+iShares Quantum Computing,QANT,IE000C6ITGC8,LSE,etf,Acc,Global quantum computing stocks,£73M,0.00%,£4.16,GBP,https://lightyear.com/etf/QANT:LSE
+HSBC MSCI Japan Islamic Screened,HIJS,IE0001XCFC82,LSE,etf,Acc,Shariah-compliant Japanese stocks,£71M,0.00%,£20.12,GBP,https://lightyear.com/etf/HIJS:LSE
+Vanguard ESG Developed Asia Pacific All Cap,V3PM,IE0008T6IUX0,LSE,etf,Dist,ESG Asia-Pacific stocks,£59M,1.80%,£7.20,GBP,https://lightyear.com/etf/V3PM:LSE
+Vanguard Global Government Bond,VGGS,IE000AI6QNJ5,LSE,etf,Acc,Developed markets government bonds,£47M,0.00%,£5.09,GBP,https://lightyear.com/etf/VGGS:LSE
+Vanguard ESG Developed Europe All Cap,V3EL,IE000NRGX9M3,LSE,etf,Dist,ESG European stocks,£35M,2.62%,£5.82,GBP,https://lightyear.com/etf/V3EL:LSE
+iShares Moderate Portfolio,MAMG,IE00BLLZQ797,LSE,etf,Acc,Moderate risk portfolio,£25M,0.00%,£7.28,GBP,https://lightyear.com/etf/MAMG:LSE
+iShares Growth Portfolio,MAGG,IE00BLLZQ912,LSE,etf,Acc,Growth-focused ESG portfolio,£25M,0.00%,£9.07,GBP,https://lightyear.com/etf/MAGG:LSE
+Vanguard FTSE All-world Ex USA,VXUS,IE0009A5ADV9,LSE,etf,Acc,Global markets stocks ex USA,£19M,0.00%,£3.57,GBP,https://lightyear.com/etf/VXUS:LSE
+Vanguard FTSE Global Small-Cap,VSML,IE0007TPRF31,LSE,etf,Acc,Global small-cap stocks,£15M,0.00%,£3.56,GBP,https://lightyear.com/etf/VSML:LSE
+Vanguard Russell 1000 U.S. Growth,VRGG,IE000J7AY5Y3,LSE,etf,Acc,US large-cap growth stocks,£7.0M,0.00%,£74.92,GBP,https://lightyear.com/etf/VRGG:LSE
+Vanguard Russell U.S. Mid-Cap,VRMG,IE000650M1V4,LSE,etf,Acc,US mid-cap stocks,£4.0M,0.00%,£74.59,GBP,https://lightyear.com/etf/VRMG:LSE
+Vanguard Russell 2000 U.S. Small-Cap,VRSG,IE000GTBEXG4,LSE,etf,Acc,US small-cap stocks,£3.0M,0.00%,£69.41,GBP,https://lightyear.com/etf/VRSG:LSE
